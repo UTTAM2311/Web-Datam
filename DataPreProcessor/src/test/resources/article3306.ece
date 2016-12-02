@@ -1,0 +1,1975 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script type="text/javascript">
+var kslMobile = {}, $k = kslMobile;
+$k.urlType=(function(){var a = window.location.pathname;if(a.match(/article\d{2,}.ece/)){return 2;}else if(a.length>2){return 1;}else{return 0;}})();
+$k.isMobile=(function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))){return true;}else{return false;}})(navigator.userAgent||navigator.vendor||window.opera);
+//var dtpcriteria = window.location.search.search("m=dtp");
+var dtpcriteria = document.cookie.search("thdtp=true");
+if($k.isMobile && dtpcriteria == -1)
+{
+if($k.urlType == 1)
+{	var mobUrl = "";
+$k.url = mobUrl;
+if(mobUrl.length > 10)
+{
+window.location = mobUrl;
+}else
+{
+window.location = "http://m.thehindu.com/";
+}	}
+else if($k.urlType == 2)
+{	var mobUrl = "http://m.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece";
+if(mobUrl.length > 2)
+{
+$k.url = mobUrl;
+if(mobUrl.length > 10)
+{
+window.location = mobUrl;
+}else
+{
+window.location = "http://m.thehindu.com/";
+}
+}	}
+else
+{
+window.location = "http://m.thehindu.com/";
+}
+}
+</script>
+<title>
+I was always a cricket buff: Tharoor - The Hindu
+</title>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.thehindu.com/favicon.ico" />
+<link rel="icon" type="image/ico" href="http://www.thehindu.com/favicon.ico" />
+<link rel="apple-touch-icon" href="http://www.thehindu.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="http://www.thehindu.com/apple-touch-icon-precomposed.png"/>
+<meta name="application-name" content="The Hindu" />
+<meta name="msapplication-starturl" content="http://www.thehindu.com/" />
+<meta name="msapplication-task" content="name=News; action-uri=http://www.thehindu.com/news/; icon-uri=http://www.thehindu.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Opinion; action-uri=http://www.thehindu.com/opinion/; icon-uri=http://www.thehindu.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Sport; action-uri=http://www.thehindu.com/sport/; icon-uri=http://www.thehindu.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Business; action-uri=http://www.thehindu.com/business/; icon-uri=http://www.thehindu.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Subscribe to RSS; action-uri=http://www.thehindu.com/sport/cricket/?service=rss; icon-uri=http://www.thehindu.com/favicon.ico" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@The_Hindu"/>
+<meta name="twitter:domain" content="thehindu.com"/>
+<meta name="twitter:app:name:iphone" content="The Hindu for iPhone"/>
+<meta name="twitter:app:id:iphone" content="771672321"/>
+<meta name="apple-itunes-app" content="app-id=771672321"/>
+<meta name="twitter:app:url:iphone" content="https://itunes.apple.com/in/app/the-hindu-for-iphone/id771672321?mt=8"/>
+<meta name="twitter:app:name:ipad" content="The Hindu"/>
+<meta name="twitter:app:id:ipad" content="584786636"/>
+<meta name="apple-itunes-app" content="app-id=584786636"/>
+<meta name="twitter:app:url:ipad" content="https://itunes.apple.com/in/app/the-hindu/id584786636?mt=8"/>
+<meta name="twitter:app:name:googleplay" content="The Hindu (Official App)"/>
+<meta name="twitter:app:id:googleplay" content="com.mobstac.thehindu"/>
+<meta name="google-play-app" content="app-id=com.mobstac.thehindu">
+<meta name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.mobstac.thehindu"/>
+<meta name="twitter:title" content=" I was always a cricket buff: Tharoor"/>
+<meta name="twitter:url" content="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece"/>
+<link rel="canonical" href="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece"/>
+<meta name="twitter:description" content="It was with awe that Mumbai&rsquo;s glitterati drawn from sports, industry, commerce, arts looked at Mr. Shashi Tharoor at a book launch function organised by Mukesh and Nita Ambani at the Sea Lounge, Taj Mahal Palace">
+<meta name="description" content="It was with awe that Mumbai&rsquo;s glitterati drawn from sports, industry, commerce, arts looked at Mr. Shashi Tharoor at a book launch function organised by Mukesh and Nita Ambani at the Sea Lounge, Taj Mahal Palace" />
+<meta name="author" content="G. Viswanath"/>
+<meta name="keywords" content="Shashi Tharoor, cricket, Sachin Tendulkar, Pakistan, India,cricket, One-day cricket, Test cricket, World Cup Cricket"/>
+<meta name="news_keywords" content="Shashi Tharoor, cricket, Sachin Tendulkar, Pakistan, India,cricket, One-day cricket, Test cricket, World Cup Cricket"/>
+<meta rel="link" id="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece"/>
+<meta property="fb:app_id" content="137450626398044" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece" />
+<meta property="og:site_name" content="The Hindu" />
+<meta property="og:title" content=" I was always a cricket buff: Tharoor" />
+<meta property="og:description" content="It was with awe that Mumbai&rsquo;s glitterati drawn from sports, industry, commerce, arts looked at Mr. Shashi Tharoor at a book launch function organised by Mukesh and Nita Ambani at the Sea Lounge, Taj Mahal Palace" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image" content="http://www.thehindu.com/multimedia/dynamic/00000/THAROOR_jpg_647c.jpg" />
+<meta name="twitter:image:src" content="http://www.thehindu.com/multimedia/dynamic/00000/THAROOR_jpg_647c.jpg"/>
+<meta name="DC.date.issued" content="2009-08-15"/>
+<meta property="article:section" content="Cricket" />
+<meta property="article:published_time" content="2009-08-15T20:02:59+05:30" />
+<meta property="article:modified_time" content="2009-08-15T20:05:38+05:30" />
+<meta property="article:tag" content="Shashi Tharoor" />
+<meta property="article:tag" content="cricket" />
+<meta property="article:tag" content="Sachin Tendulkar" />
+<meta property="article:tag" content="Pakistan" />
+<meta property="article:tag" content="India" />
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/styles-min.css?1446781498000" media="screen, handheld, projection"/>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/ie6-min.css" />
+<![endif]-->
+<!--[if gt IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/ie-min.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/print-min.css" media="print"/>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/jquery-ui-1.10.4.custom.min.css" media="screen"/>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery.smartbanner.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery.jcarousel-0.3.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery-ui-1.10.4.custom.min.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/swfobject-min.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/formValidator-min.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/flowplayer-3.2.11.min.js"> </script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery.img-gallery-latest-min.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/slider-min.js"></script>
+<script type="text/javascript">
+$(function(){
+$("a[rel^='lb?homepage=true&ref=infograph']").prettyPhoto();
+$("a[rel^='lb?ref=infograph']").prettyPhoto();
+});
+//eSlider
+$(document).ready(function(){$("#cr-slider").show().eSlider({auto: true,continuous: true,numeric: true,speed: 200,pause: 20000,numericId: 'controls'	});	});
+</script>
+<script type="text/javascript">
+$(function() {
+$( ".accordion" ).accordion();
+});
+</script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/jquery.slimscroll.min.js"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/common-min.js?1446781500000"></script>
+<script type="text/javascript">
+function publist(item){url ="http://www.thehindu.com/";id ="4";switch(item){case "url":item = url;break;case "id":item = id;break;default:}return item;}</script>
+<noscript><style type="text/css">#cr-slider { display: block; }</style></noscript>
+<script type="text/javascript">
+if ((navigator.userAgent).toLowerCase().indexOf('iphone') >= 0) { document.write('<meta name="apple-itunes-app" content="app-id=771672321" />'); } else if ((navigator.userAgent).toLowerCase().indexOf('ipad') >= 0) { document.write('<meta name="apple-itunes-app" content="app-id=584786636" />'); }
+</script>
+<!-- <script type="text/javascript">
+$(function () { $.smartbanner({ daysHidden: 0, daysReminder: 0, title:'The Hindu' , url:'https://play.google.com/store/apps/details?id=com.mobstac.thehindu', icon:'https://lh4.ggpht.com/_wAwneNQFfcruC-YiUpWKPtBTpzfdqLVTIArJyYRt52xGm4ABVQKT5eeLb_rl6em42kO=w300-rw' }) })
+</script> -->
+<!--
+<script type="text/javascript">
+if ((navigator.userAgent).toLowerCase().indexOf('android') >= 0) { document.write('<meta name="google-play-app" content="app-id=com.mobstac.thehindu"/>'); }
+</script>-->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11398210" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=11398210&cv=2.0&cj=1" />
+</noscript>
+<script src="http://vuukle.com/js/vuukle.js" type="text/javascript"></script>
+<meta name="google-site-verification" content="F3yyKM72R91NorcXieBJf3tFVoXfRS6J4lvlrLLx_80"/>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-10158580-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+if ((navigator.userAgent).toLowerCase().indexOf('iphone') >= 0) { document.write('<meta name="apple-itunes-app" content="app-id=771672321" />'); } else if ((navigator.userAgent).toLowerCase().indexOf('ipad') >= 0) { document.write('<meta name="apple-itunes-app" content="app-id=584786636" />'); }
+</script>
+<!-- <script type="text/javascript">
+$(function () { $.smartbanner({ daysHidden: 0, daysReminder: 0, title:'The Hindu' , url:'https://play.google.com/store/apps/details?id=com.mobstac.thehindu', icon:'https://lh4.ggpht.com/_wAwneNQFfcruC-YiUpWKPtBTpzfdqLVTIArJyYRt52xGm4ABVQKT5eeLb_rl6em42kO=w300-rw' }) })
+</script> -->
+<!--
+<script type="text/javascript">
+if ((navigator.userAgent).toLowerCase().indexOf('android') >= 0) { document.write('<meta name="google-play-app" content="app-id=com.mobstac.thehindu"/>'); }
+</script>-->
+<!-- Outbrain Reader Response Tracking Script (v1.6) -->
+<script type="text/javascript">
+var _vrq = _vrq || [];
+_vrq.push(['id', 604]);
+_vrq.push(['automate', false]);
+_vrq.push(['track', function(){}]);
+(function(d, a) {
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = '//vra.outbrain.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+</head>
+<body>
+<div class="wcontainer" id="" > <div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";
+js.async = true;
+fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> <div id="container" class="bgWhite">
+<div id="ad-bar">
+<div id="ad1" class="right-toutad">
+<center><!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_Sports_LB , publisher: Hindu , Ad Dimension: Super Banner - 728 x 90 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="11/1"; var zflag_sid="1"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+</script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_Sports_LB , publisher: Hindu , Ad Dimension: Super Banner - 728 x 90 --></center>
+</div>
+</div>
+<div id="header" class="clearfix">
+<div class="mast-head fltlft">
+<div class="logo">
+<a href="http://www.thehindu.com/"><img src="http://www.thehindu.com/template/1-0-1/gfx/logo.jpg" alt="Return to frontpage" width="535" height="55"/></a>
+</div>
+</div>
+<div class="fltrt socialbar">
+<div class="tab-bar">
+<a href="https://twitter.com/The_Hindu" target="_blank"><div class="slTwit"></div></a>
+<a href="https://plus.google.com/+thehindu" target="_blank"><div class="slgplus"></div></a>
+<a href="https://www.facebook.com/thehindu" target="_blank"><div class="slfb"></div></a>
+<a href="https://instagram.com/the_hindu/?ref=badge" target="_blank"><div class="slIn"></div></a>
+<a href="https://www.youtube.com/user/The1878Hindu" target="_blank"><div class="slYou"></div></a>
+<a href="http://www.thehindugroup.in/subscribe/" target="_blank"><div class="slSub"></div></a>
+<a href="http://www.thehindu.com/apps/" target="_blank"><div class="slApp"></div></a>
+</div>
+<div class="search">
+<form id="simpleSearchForm" method="post" action="http://www.thehindu.com/search/simple.do">
+<fieldset>
+<input type="hidden" name="publicationId" value="4">
+<input type="hidden" name="includeSectionId" value="11"> <input type="hidden" name="articleType" value="news"> <input type="hidden" name="articleType" value="review"> <input type="hidden" name="articleType" value="slideshow"> <input type="hidden" name="articleType" value="columns"> <input type="hidden" name="articleType" value="letters"> <input type="hidden" name="articleType" value="interview"> <input type="hidden" name="articleType" value="feature"> <input type="hidden" name="articleType" value="editorial"> <input type="hidden" name="articleType" value="audio"> <input type="hidden" name="articleType" value="video"> <input type="hidden" name="articleType" value="blog-posting"> <input type="hidden" name="articleType" value="opinion"> <input type="hidden" name="articleType" value="archive"> <input type="hidden" name="pageLength" value="10">	<input type="hidden" name="sortString" value="by_date_desc">
+<input type="hidden" name="optimized" value="false">
+<input type="hidden" name="stemType" value="stemmed">
+<input type="hidden" name="searchEngineName" value="hinduIndex">	<input type="text" placeholder="Search" name="searchString" size="20" value="" id="searchString" class="text" title="place within &quot;&quot; for exact match">
+<input type="submit" value='GO' class="submit">
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<ul id="nav-bar">
+<li>
+<a href="http://www.thehindu.com/" onclick="ga('send', 'event', 'header+nav', 'click', 'Home')" title="Home, Popular, Chennai, Hyderabad, Bengaluru, Delhi, Tamil Nadu, Andhra Pradesh, Web Exclusives, Cinema, Data, Metroplus, Trending, Videos, Specials">Home</a>
+<ul id="wideDropMenu">
+<li class="level2">
+<div class="art-holder sec-ece_frontpage">
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/narendra-modi-raises-student-visa-issue-with-david-cameron/article7872301.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02618/modistud_jpg_2618773i.jpg" alt="Prime Minister Narendra Modi with his UK counterpart David Cameron chat after paying homage at the statue of Mahatma Gandhi, in Parliament Square in London on Thursday." width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/narendra-modi-raises-student-visa-issue-with-david-cameron/article7872301.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Modi raises student visa issue with David Cameron</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/business/Economy/imf-supports-modis-economic-reforms/article7872295.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02618/IMF_final_2618774i.jpg" alt="" width="129" height="91"/></a>
+</div>	<h3><a href="http://www.thehindu.com/business/Economy/imf-supports-modis-economic-reforms/article7872295.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Broadly support Modi’s economic reforms: IMF </a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/features/cinema/cinema-reviews/prem-ratan-dhan-payo-review/article7869782.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/prem_2617729i.jpg" alt="A still from Prem Ratan Dhan Payo" width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/features/cinema/cinema-reviews/prem-ratan-dhan-payo-review/article7869782.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Prem Ratan Dhan Payo: A cracker that we haven’t outgrown </a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/live-pm-narendra-modi-arrives-in-uk/article7869362.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/Modi_Cam_2617816i.jpg" alt="Prime Minister Narendra Modi with British Prime Minister David Cameron addressing the joint press conference at the Foreign and Commonwealth Office. Photo: PIB" width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/live-pm-narendra-modi-arrives-in-uk/article7869362.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">PM addresses Business Meeting at London</a></h3>
+</div>	</div>
+<div class="noline"></div>
+<div class="dropcities">
+<a href="http://www.thehindu.com/news/cities/chennai/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'chennai')">Chennai&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/cities/Hyderabad/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Hyderabad')">Hyderabad&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/cities/bangalore/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'bangalore')">Bengaluru&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/cities/Delhi/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Delhi')">Delhi&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/tamil-nadu/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tamil-nadu')">Tamil&nbsp;Nadu&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/andhra-pradesh/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'andhra-pradesh')">Andhra&nbsp;Pradesh&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/webexclusives/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'webexclusives')">Web&nbsp;Exclusives&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/features/cinema/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cinema')">Cinema&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/data/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'data')">Data&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/features/metroplus/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'metroplus')">Metroplus&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/trending/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'trending')">Trending&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/videos/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'videos')">Videos&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/specials/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'specials')">Specials&nbsp;&nbsp;&nbsp;</a>
+</div>
+</li>
+</ul>
+</li>	<li>
+<a href="http://www.thehindu.com/todays-paper/" onclick="ga('send', 'event', 'header+nav', 'click', 'todays-paper')" title="Today's Paper">Today&#039;s Paper</a>
+</li>	<li>
+<a href="#" onclick="ga('send', 'event', 'header+nav', 'click', 'All Sections')" title="All Sections, News, Business, OP-ED, Resources, Events, Life & Style, Features, Specials, Sport, Sci-Tech">All Sections</a>
+<ul id="wideDropMenuAll">
+<li class="level2">
+<div class="art-holder">
+<div class="menSecHold">
+<div class="menSecHoldLink">News</div> <a href="http://www.thehindu.com/news/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'news')">News</a>
+<a href="http://www.thehindu.com/news/national/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'national')">National</a>
+<a href="http://www.thehindu.com/news/international/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'international')">International</a>
+<a href="http://www.thehindu.com/news/national/andhra-pradesh/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'andhra-pradesh')">Andhra&nbsp;Pradesh</a>
+<a href="http://www.thehindu.com/news/national/karnataka/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'karnataka')">Karnataka</a>
+<a href="http://www.thehindu.com/news/national/kerala/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'kerala')">Kerala</a>
+<a href="http://www.thehindu.com/news/national/tamil-nadu/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tamil-nadu')">Tamil&nbsp;Nadu</a>
+<a href="http://www.thehindu.com/news/national/telangana/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'telangana')">Telangana</a>
+<a href="http://www.thehindu.com/news/national/other-states/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'other-states')">Other&nbsp;states</a>
+<a href="http://www.thehindu.com/news/cities/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cities')">Cities</a>
+<div class="menSecHoldLink">Business</div> <a href="http://www.thehindu.com/business/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'business')">Business</a>
+<a href="http://www.thehindu.com/business/agri-business/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'agri-business')">Agri-Business</a>
+<a href="http://www.thehindu.com/business/Economy/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Economy')">Economy</a>
+<a href="http://www.thehindu.com/business/Industry/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Industry')">Industry</a>
+<a href="http://www.thehindu.com/business/markets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'markets')">Markets</a>
+</div>
+<div class="menSecHold">
+<div class="menSecHoldLink">OP-ED</div> <a href="http://www.thehindu.com/opinion/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'opinion')">Opinion</a>
+<a href="http://www.thehindu.com/opinion/columns/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'columns')">Columns</a>
+<a href="http://www.thehindu.com/opinion/editorial/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'editorial')">Editorial</a>
+<a href="http://www.thehindu.com/opinion/interview/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'interview')">Interview</a>
+<a href="http://www.thehindu.com/opinion/Readers-Editor/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Readers-Editor')">Readers'&nbsp;Editor</a>
+<div class="menSecHoldLink">Resources</div> <a href="http://www.thehindu.com/news/resources/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'resources')">Resources</a>
+<a href="http://www.thehindu.com/news/the-india-cables/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'the-india-cables')">The&nbsp;India&nbsp;Cables</a>
+<a href="http://www.thehindu.com/elections/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'elections')">Elections</a>
+<a href="http://www.thehindu.com/topics/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'topics')">Topics</a>
+<div class="menSecHoldLink">Events</div> <a href="http://www.thehindu.com/features/lit-for-life/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'lit-for-life')">Lit&nbsp;for&nbsp;Life</a>
+<a href="http://www.thehindu.com/features/november-fest/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'november-fest')">November&nbsp;Fest</a>
+</div>
+<div class="menSecHold">
+<div class="menSecHoldLink">Life & Style</div> <a href="http://www.thehindu.com/entertainment/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment')">Entertainment</a>
+<a href="http://www.thehindu.com/entertainment/entertainment-art/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-art')">Art</a>
+<a href="http://www.thehindu.com/entertainment/entertainment-cinema/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-cinema')">Cinema</a>
+<a href="http://www.thehindu.com/entertainment/entertainment-dance/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-dance')">Dance</a>
+<a href="http://www.thehindu.com/entertainment/entertainment-history/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-history')">History&nbsp;&&nbsp;Culture</a>
+<a href="http://www.thehindu.com/entertainment/entertainment-music/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-music')">Music</a>
+<a href="http://www.thehindu.com/entertainment/entertainment-theatre/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-theatre')">Theatre</a>
+<a href="http://www.thehindu.com/features/metroplus/Motoring/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Motoring')">Motoring</a>
+<a href="http://www.thehindu.com/features/metroplus/travel/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'travel')">Travel</a>
+<a href="http://www.thehindu.com/books/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'books')">Books</a>
+<a href="http://www.thehindu.com/books/literary-review/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'literary-review')">Literary&nbsp;Review</a>
+<a href="http://www.thehindu.com/books/know-your-english/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'know-your-english')">Know&nbsp;Your&nbsp;English</a>
+</div>
+<div class="menSecHold">
+<div class="menSecHoldLink">Features</div> <a href="http://www.thehindu.com/features/cinema/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cinema')">Cinema</a>
+<a href="http://www.thehindu.com/features/downtown/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'downtown')">Downtown</a>
+<a href="http://www.thehindu.com/features/education/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'education')">Education&nbsp;Plus</a>
+<a href="http://www.thehindu.com/features/friday-review/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'friday-review')">Friday&nbsp;Review</a>
+<a href="http://www.thehindu.com/features/magazine/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'magazine')">Magazine</a>
+<a href="http://www.thehindu.com/features/metroplus/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'metroplus')">Metroplus</a>
+<a href="http://www.thehindu.com/features/homes-and-gardens/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'homes-and-gardens')">Property&nbsp;Plus</a>
+<a href="http://www.thehindu.com/features/kids/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'kids')">Young&nbsp;World</a>
+<a href="http://www.thehindu.com/in-school/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'in-school')">In&nbsp;School</a>
+<a href="http://www.thehindu.com/features/empower/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'empower')">Empower</a>
+<div class="menSecHoldLink">Specials</div> <a href="http://www.thehindu.com/specials/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'specials')">Specials</a>
+<a href="http://www.thehindu.com/specials/in-depth/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'in-depth')">In&nbsp;Depth</a>
+<a href="http://www.thehindu.com/specials/live-chat/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'live-chat')">Live&nbsp;Chat</a>
+<a href="http://www.thehindu.com/specials/timelines/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'timelines')">Timelines</a>
+<a href="http://www.thehindu.com/data/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'data')">Data</a>
+</div>
+<div class="menSecHold">
+<div class="menSecHoldLink">Sport</div> <a href="http://www.thehindu.com/sport/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'sport')">Sport</a>
+<a href="http://www.thehindu.com/sport/cricket/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cricket')">Cricket</a>
+<a href="http://www.thehindu.com/sport/football/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'football')">Football</a>
+<a href="http://www.thehindu.com/sport/hockey/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'hockey')">Hockey</a>
+<a href="http://www.thehindu.com/sport/tennis/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tennis')">Tennis</a>
+<a href="http://www.thehindu.com/sport/races/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'races')">Races</a>
+<a href="http://www.thehindu.com/sport/other-sports/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'other-sports')">Other&nbsp;Sports</a>
+<div class="menSecHoldLink">Sci-Tech</div> <a href="http://www.thehindu.com/sci-tech/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'sci-tech')">Sci-Tech</a>
+<a href="http://www.thehindu.com/sci-tech/energy-and-environment/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'energy-and-environment')">Environment</a>
+<a href="http://www.thehindu.com/sci-tech/health/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'health')">Health</a>
+<a href="http://www.thehindu.com/sci-tech/science/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'science')">Science</a>
+<a href="http://www.thehindu.com/sci-tech/technology/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'technology')">Technology</a>
+<a href="http://www.thehindu.com/sci-tech/technology/gadgets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'gadgets')">Gadgets</a>
+<a href="http://www.thehindu.com/sci-tech/technology/internet/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'internet')">Internet</a>
+</div>	</div>
+</li>
+</ul>	</li>
+<li>
+<a href="http://www.thehindu.com/news/" onclick="ga('send', 'event', 'header+nav', 'click', 'news')" title="News, International, National, Cities">News</a>
+<ul id="wideDropMenu">
+<li class="level2">
+<div class="art-holder sec-news">
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/features/friday-review/dance/asia-cultural-center-south-korea-was-where-the-llate-dancer-chandralekhas-sharira-was-staged/article7869773.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/13FR_ACC_Theatre-i_2617708i.jpg" alt="Inside view of the ACC Theatre. Photos: Courtesy Asian Arts Theatre" width="129" height="120"/></a>
+</div>	<h3><a href="http://www.thehindu.com/features/friday-review/dance/asia-cultural-center-south-korea-was-where-the-llate-dancer-chandralekhas-sharira-was-staged/article7869773.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"> Gwangju, the new destination for art</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/other-states/one-more-sikh-hardline-leader-arrested-in-punjab/article7870368.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/TH13_SIKH_LEADER_2617923i.jpg" alt="United Akali Dal general secretary Wassan Singh Zaffarwal" width="129" height="134"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/other-states/one-more-sikh-hardline-leader-arrested-in-punjab/article7870368.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">One more Sikh hardline leader arrested in Punjab</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/live-pm-narendra-modi-arrives-in-uk/article7869362.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/Modi_Cam_2617816i.jpg" alt="Prime Minister Narendra Modi with British Prime Minister David Cameron addressing the joint press conference at the Foreign and Commonwealth Office. Photo: PIB" width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/live-pm-narendra-modi-arrives-in-uk/article7869362.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">PM addresses Business Meeting at London</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/india-not-intolerant-modi/article7870341.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/13TH_MODI_PAGE1_2617919i.jpg" alt="Prime Minister Narendra Modi with his British counterpart
+David Cameron after inspecting a guard of honour in London
+on Thursday." width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/india-not-intolerant-modi/article7870341.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">India not intolerant: Modi </a></h3>
+</div>	</div>
+<div class="noline"></div>
+<div class="dropcities">
+<a href="http://www.thehindu.com/news/international/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'international')">International&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'national')">National&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/cities/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cities')">Cities&nbsp;&nbsp;&nbsp;</a>
+</div>
+</li>
+</ul>
+</li>	<li>
+<a href="http://www.thehindu.com/news/national/" onclick="ga('send', 'event', 'header+nav', 'click', 'national')" title="National, Andhra Pradesh, Karnataka, Kerala, Tamil Nadu, Telangana, Other States">National</a>
+<ul id="wideDropMenu">
+<li class="level2">
+<div class="art-holder sec-news">
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/rss-affiliate-questions-easing-of-fdi-norms/article7870371.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/TH13_Page-1_2617924i.jpg" alt="Virjesh Upadhyay" width="129" height="172"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/rss-affiliate-questions-easing-of-fdi-norms/article7870371.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">RSS affiliate questions easing of FDI norms</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/karnataka/over-two-hours-blockade-at-kc-circle/article7872627.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02619/Human_chain_2619109i.jpg" alt="The human chain at KC Circle, Hubbali" width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/karnataka/over-two-hours-blockade-at-kc-circle/article7872627.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Blockade at KC Circle for over two hours</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/live-pm-narendra-modi-arrives-in-uk/article7869362.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/Modi_Cam_2617816i.jpg" alt="Prime Minister Narendra Modi with British Prime Minister David Cameron addressing the joint press conference at the Foreign and Commonwealth Office. Photo: PIB" width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/live-pm-narendra-modi-arrives-in-uk/article7869362.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">PM addresses Business Meeting at London</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/national/tamil-nadu/rains-lash-tamil-nadu-schools-closed-exams-postponed/article7872130.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02618/Rain_jpg_2618738i.jpg" alt="Water stagnated in various parts of Chennai, leading to traffic jams." width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/national/tamil-nadu/rains-lash-tamil-nadu-schools-closed-exams-postponed/article7872130.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Rain lashes Tamil Nadu; schools, colleges closed</a></h3>
+</div>	</div>
+<div class="noline"></div>
+<div class="dropcities">
+<a href="http://www.thehindu.com/news/national/andhra-pradesh/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Andhra Pradesh')">Andhra Pradesh&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/karnataka/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Karnataka')">Karnataka&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/kerala/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Kerala')">Kerala&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/tamil-nadu/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Tamil Nadu')">Tamil Nadu&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/telangana/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Telangana')">Telangana&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/other-states/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Other States')">Other States&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class="dropcities">
+<a href="http://www.thehindu.com/news/national/andhra-pradesh/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'andhra-pradesh')">Andhra&nbsp;Pradesh&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/karnataka/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'karnataka')">Karnataka&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/kerala/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'kerala')">Kerala&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/tamil-nadu/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tamil-nadu')">Tamil&nbsp;Nadu&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/telangana/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'telangana')">Telangana&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/national/other-states/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'other-states')">Other&nbsp;States&nbsp;&nbsp;&nbsp;</a>
+</div>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.thehindu.com/news/international/" onclick="ga('send', 'event', 'header+nav', 'click', 'international')" title="International, South Asia, World">International</a>
+<ul id="wideDropMenu">
+<li class="level2">
+<div class="art-holder sec-news">
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/international/ukrainian-lawmakers-approve-gay-rights-bill/article7872327.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02618/ukraine_2618780i.jpg" alt="LGBT activists attend a rally in front of parliament in Kiev, Ukraine. Photo: AP" width="129" height="87"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/international/ukrainian-lawmakers-approve-gay-rights-bill/article7872327.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Ukrainian lawmakers approve gay rights bill </a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/international/us-conducts-air-strike-in-syria-targeting-jihadi-john/article7872348.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02618/Jihadi_2618812i.jpg" alt="The masked, black-clad Islamic State (IS) terrorist known as ‘Jihadi John’ has featured in a series of chilling videos of executions of hostages." width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/international/us-conducts-air-strike-in-syria-targeting-jihadi-john/article7872348.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">US conducts air strike in Syria targeting ‘Jihadi’ John </a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/international/intellectuals-writers-call-on-cameron-to-raise-rights-issues-with-modi/article7869527.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/BRITAIN_INDIA_2617584i.jpg" alt="A group of leading U.K. academics have published a letter in the Guardian calling for an acknowledgment of the “darker side of what’s happening in India today”. " width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/international/intellectuals-writers-call-on-cameron-to-raise-rights-issues-with-modi/article7869527.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Intellectuals, writers call on Cameron to raise rights issue with Modi</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/news/international/journalist-of-indian-origin-arrested-in-london/article7866924.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02616/hasan_2616633i.jpg" alt="A video grab from the sting operation carried out by an anti-paedophile vigilante group on British Indian columnist Hasan Suroor." width="129" height="172"/></a>
+</div>	<h3><a href="http://www.thehindu.com/news/international/journalist-of-indian-origin-arrested-in-london/article7866924.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Journalist of Indian origin arrested in London</a></h3>
+</div>	</div>
+<div class="noline"></div>
+<div class="dropcities">
+<a href="http://www.thehindu.com/news/international/south-asia/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'South Asia')">South Asia&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/international/world/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'World')">World&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class="dropcities">
+<a href="http://www.thehindu.com/news/international/south-asia/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'south-asia')">South&nbsp;Asia&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/news/international/world/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'world')">World&nbsp;&nbsp;&nbsp;</a>
+</div>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.thehindu.com/opinion/" onclick="ga('send', 'event', 'header+nav', 'click', 'opinion')" title="Opinion, Cartoon, Columns, Editorial, Interview, Lead, Letters, Comment, Open Page, Readers' Editor">Opinion</a>
+<ul id="wideDropMenu">
+<li class="level2">
+<div class="art-holder opinion">
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/opinion/lead/standing-to-reason-and-reason-alone/article7869968.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02572/TH_06_Oped_jpg_2572911i.jpg" alt="ILLUSTRATION: SATWIK GADE" width="129" height="97"/></a>
+</div>	<h3><a href="http://www.thehindu.com/opinion/lead/standing-to-reason-and-reason-alone/article7869968.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Standing to reason and reason alone</a></h3>
+</div>
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/opinion/op-ed/going-against-the-political-tide/article7869916.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/13TH_JUSTINGURUDWA_2617836i.jpg" alt="SUNNY NEWS: "Canadian Prime Minister Justin Trudeau is an advocate of a tolerant, caring and economically prosperous Canada.” Picture shows him at the Gurdwara Sahib Ottawa Sikh Society in Ottawa, Canada." width="129" height="84"/></a>
+</div>	<h3><a href="http://www.thehindu.com/opinion/op-ed/going-against-the-political-tide/article7869916.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Going against the political tide </a></h3>
+</div>
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/opinion/op-ed/why-the-bjps-blame-game-just-does-not-add-up/article7866877.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02616/12TH_BIHAR__2616597i.jpg" alt="Fringe as Centre: "The dissipation of the chemistry between the Prime Minister and the Bihari voter can be directly traced to the atmosphere created by some comments from BJP members.” Picture shows the BJP office in New Delhi wearing a deserted look following the party's defeat in the Bihar Assembly polls." width="129" height="103"/></a>
+</div>	<h3><a href="http://www.thehindu.com/opinion/op-ed/why-the-bjps-blame-game-just-does-not-add-up/article7866877.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Why the BJP’s blame game just does not add up</a></h3>
+</div>
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/opinion/cartoon/article7869927.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/13th_cartoon_JPG_2617839i.jpg" alt="" width="129" height="69"/></a>
+</div>	<h3><a href="http://www.thehindu.com/opinion/cartoon/article7869927.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Cartoonscape — November 13, 2015</a></h3>
+</div>
+</div>
+<div class="noline"></div>
+<div class="dropcities"> <a href="http://www.thehindu.com/opinion/cartoon/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cartoon')">Cartoon&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/columns/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'columns')">Columns&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/editorial/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'editorial')">Editorial&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/interview/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'interview')">Interview&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/lead/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'lead')">Lead&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/letters/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'letters')">Letters&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/op-ed/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'op-ed')">Comment&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/open-page/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'open-page')">Open&nbsp;Page&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/opinion/Readers-Editor/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Readers-Editor')">Readers'&nbsp;Editor&nbsp;&nbsp;&nbsp;</a>
+</div>
+</li>
+</ul>	</li>	<li>
+<a href="http://www.thehindu.com/business/" onclick="ga('send', 'event', 'header+nav', 'click', 'business')" title="Business, Agri-Business, Budget, Industry, Economy, Markets, Stock Quotes">Business</a>
+<ul id="wideDropMenu">
+<li class="level2">
+<div class="art-holder sec-business">
+<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/business/Industry/domestic-carriers-allowed-to-roll-out-zero-bag-fares/article7869995.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/plane_jpg_2617865i.jpg" alt="" width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/business/Industry/domestic-carriers-allowed-to-roll-out-zero-bag-fares/article7869995.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Domestic carriers allowed to roll out zero bag fares</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/business/Economy/key-indicators-register-fall/article7870372.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/inflation_2617925i.jpg" alt="" width="129" height="96"/></a>
+</div>	<h3><a href="http://www.thehindu.com/business/Economy/key-indicators-register-fall/article7870372.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"> Key indicators register fall</a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/business/60000-maggi-kits-sold-out-in-5-minutes-on-snapdeal/article7869166.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02617/snapdeal_2617397i.jpg" alt="Snapdeal had announced that it will sell Nestle’s Maggi via a unique “flash sale model” as the noodles brand made a comeback after a gap of five months." width="129" height="95"/></a>
+</div>	<h3><a href="http://www.thehindu.com/business/60000-maggi-kits-sold-out-in-5-minutes-on-snapdeal/article7869166.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">60,000 Maggi kits sold out in 5 minutes on Snapdeal </a></h3>
+</div>	<div class="art-box">
+<div class="hover-img">
+<a href="http://www.thehindu.com/business/Economy/imf-supports-modis-economic-reforms/article7872295.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')"><img src="http://www.thehindu.com/multimedia/dynamic/02618/IMF_final_2618774i.jpg" alt="" width="129" height="91"/></a>
+</div>	<h3><a href="http://www.thehindu.com/business/Economy/imf-supports-modis-economic-reforms/article7872295.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">Broadly support Modi’s economic reforms: IMF </a></h3>
+</div>	</div>
+<div class="noline"></div>
+<div class="dropcities">
+<a href="http://www.thehindu.com/business/agri-business/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'agri-business')">Agri-Business&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/business/budget/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'budget')">Budget&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/business/Industry/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Industry')">Industry&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/business/Economy/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Economy')">Economy&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindu.com/business/markets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'markets')">Markets&nbsp;&nbsp;&nbsp;|</a>
+<a href="http://www.thehindubusinessline.com/markets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'markets')">Stock&nbsp;Quotes&nbsp;&nbsp;&nbsp;</a>
+</div>
+</li>
+</ul>
+</li>	<a href="http://www.thehindu.com/sport/" onclick="ga('send', 'event', 'header+nav', 'click', 'sport')" title="Sport, Cricket, Football, Hockey, Tennis, Races, Other Sports, ISL 2015, Ind vs. SA 2015" class="active">Sport</a>
+<li><a href="http://www.thehindu.com/thread/" onclick="ga('send', 'event', 'header+nav', 'click', 'thread')" title="thREAD"><img src="http://www.thehindu.com/multimedia/archive/02584/ThreadNew2_2584317a.gif" alt="thREAD"/></a></li>
+<li>
+<a href="http://www.thehindu.com/features/" onclick="ga('send', 'event', 'header+nav', 'click', 'features')" title="Features, Cinema, Downtown, Education Plus, Friday Review, Property Plus, Metroplus, Magazine, Young World, Lit for Life, November Fest">Features</a>
+</li>	<li>
+<a href="http://www.thehindu.com/sci-tech/" onclick="ga('send', 'event', 'header+nav', 'click', 'sci-tech')" title="Sci-Tech, Technology, Environment, Health, Science, Agriculture">Sci-Tech</a>
+</li>	<li>
+<a href="http://www.thehindu.com/entertainment/" onclick="ga('send', 'event', 'header+nav', 'click', 'entertainment')" title="Entertainment, Art, Cinema, Dance, History & Culture, Music, Theatre">Entertainment</a>
+</li>	<div class="clear"></div>
+</ul>
+<div id="subnav-bar">
+<a href="http://www.thehindu.com/sport/cricket/" onclick="ga('send', 'event', 'header+nav', 'click', 'cricket')" title="Cricket, Ind vs. SA 2015"class="subactive subpar1 subbase">Cricket</a>
+<div id="firstlist">
+<a href="http://www.thehindu.com/system/topicRoot/South_Africa_tour_of_India/" onclick="ga('send', 'event', 'header+nav', 'click', 'South_Africa_tour_of_India')" title="Ind vs. SA 2015">Ind vs. SA 2015</a> </div>
+<div class="clear"></div>
+</div> <div id="content">
+<div id="left-column">
+<div>
+<span class="breadcr">
+<h3 class="artbcrumb"> <a href="http://www.thehindu.com/sport/">Sport</a>
+&raquo; <span class="artb"><a href="http://www.thehindu.com/sport/cricket/">Cricket</a></span>
+</h3>
+</span>
+<span class="dateline">
+<span class="upper">
+Mumbai,
+</span>
+August 15, 2009
+</span>
+</div>
+<div class="artPubUpdate"> Updated: August 15, 2009 20:05 IST &#013;
+</div>
+<div class="line zero15"></div>
+<h1 class="detail-title"> I was always a cricket buff: Tharoor</h1>
+<script type="text/javascript">
+<!--
+// These variables are for maintaining state when using ad skip
+var google_num_ads = 0;
+var google_last_ad_type = '';
+function google_ad_request_done(google_ads) {
+/*
+* This function is required and is used to display
+* the ads that are returned from the JavaScript
+* request. You should modify the document.write
+* commands so that the HTML they write out fits
+* with your desired ad layout.
+*/
+var s;
+/*
+* Verify that there are actually ads to display.
+*/
+if (google_ads.length == 0)
+return;
+google_num_ads += google_ads.length;
+google_last_ad_type = google_ads[0].type;
+/*
+* If an image or Flash ad is returned, display that ad.
+* If a rich media ad is returned, display that as "as is."
+* Otherwise, build a string containing all of the ads and
+* then use a document.write() command to print that string.
+*/
+s = '<div id="google-ad-border">';
+if (google_ads[0].type == "image") {
+s += '<a href="' + google_ads[0].url +
+'" target="_top" title="go to ' + google_ads[0].visible_url +
+'"><img border="0" src="' + google_ads[0].image_url +
+'"width="' + google_ads[0].image_width +
+'"height="' + google_ads[0].image_height + '"></a>';
+}
+else if (google_ads[0].type == "flash") {
+s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+' WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height + '">' +
+'<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+'<PARAM NAME="quality" VALUE="high">' +
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+'<EMBED src="' + google_ad.image_url +
+'" WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height +
+'" TYPE="application/x-shockwave-flash"' +
+' AllowScriptAccess="never" ' +
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+}
+else if (google_ads[0].type == "html") {
+s += google_ads[0].snippet;
+}
+else if (google_ads[0].type == "text") {
+// Adjust text sizes to occupy the majority of ad space.
+if (google_ads.length == 1) {
+ad_title_class = 'ad_title_small';
+ad_text_class = 'ad_text_small';
+ad_url_class = 'ad_url_small';
+} else {
+ad_title_class = 'ad_title';
+ad_text_class = 'ad_text';
+ad_url_class = 'ad_url';
+}
+for(var i=0; i < google_ads.length; i++) {
+s += '<div class="ad_no_background"><a class="' + ad_title_class + '" href="' + google_ads[i].url + '" target="_blank">' +
+google_ads[i].line1 + '</a> - <span class="' + ad_text_class + '">' +
+google_ads[i].line2 + ' ' +
+google_ads[i].line3 + '</span> ' +
+'<a class="' + ad_url_class + '" href="' + google_ads[i].url + '" target="_blank" >' +
+google_ads[i].visible_url + '</a></div><div class="ad_label"><a class="ad_attrheadbelow" href="'+
+google_info.feedback_url+'" target="_blank">Ads by Google</a></div></div>';
+}
+}
+document.write(s);
+return;
+}
+// -->
+</script>
+<script type="text/javascript">
+<!--
+/*
+* This section is responsible for setting the parameters of the ad call
+* Customize this section to your needs with input from your account manager
+*/
+// The following parameters should be modified appropriately
+google_ad_client = 'ca-hindu_site_html'; // substitute your client_id
+google_ad_channel = '6568152145'; // substitute your channel
+google_ad_output = 'js'; // leave this value as js
+google_max_num_ads = '1'; // specify the number of maximum ads
+google_ad_type = 'text'; // type of ads to display - text,image,flash,html
+google_safe = 'high'; // specify the ad safety
+google_feedback = 'on';
+// The following parameter is required if you are displaying image, Flash or rich media ads.
+google_image_size = '468x60'; // the size of the ad block
+// The following parameters are options you can specify as necessary
+// google_encoding = 'utf8'; // specify the output language of the ads
+// google_language = 'en'; // override the default page language
+// The following parameter should be used only during testing
+// google_adtest = 'on'; // remove this line on launch day
+// -->
+</script>
+<!--
+/*
+* The JavaScript returned from the following page uses
+* the parameter values assigned above to populate an array
+* of ad objects. Once that array has been populated,
+* the JavaScript will call the google_ad_request_done
+* function to display the ads.
+*/
+-->
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script type="text/javascript">
+var addthis_pub = "thehindu";
+</script>
+<span class="artauthor">
+<ul>
+<li><a href="http://www.thehindu.com/profile/author/g.-viswanath/" >G. Viswanath</a></li> </ul>
+</span>	<div class="detail-info">
+<div class="article-links">
+<a href="?css=print" title="Print">print</a>
+&nbsp;&nbsp;·&nbsp;&nbsp; <a href="" style="color:#aeaeae;" title="Change Text Size" id="inc" class="defaultSize">T</a>&nbsp;
+<a href="" style="font-size:18px;" title="Change Text Size" id="inc" class="largeSize">T</a>&nbsp;&nbsp;
+<script language="javascript" type="text/javascript">
+var min=8;
+var max=18;
+var min1=18;
+var max1=24; /* set cookie functions */
+function setCookie (name,value,days) {
+if (days)
+{
+var date = new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; path=/";
+}
+function getCookie (name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++)
+{
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+function increaseFontSize(e) {
+e.preventDefault();
+$(this).css({'color':"#aeaeae","cursor":"default"});	$(".defaultSize").css({'color':"#1F57A5","cursor":"pointer"});
+var temp=document.getElementById('inc').innerHTML
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+if(p[i].style.fontSize) {
+var s = parseInt(p[i].style.fontSize.replace("px",""));
+} else {
+var s = 18;
+}
+if(s!=max) {
+s = 18;
+}
+if(p[i].style.lineHeight) {
+var t = parseInt(p[i].style.lineHeight.replace("px","")); } else {
+var t = 24; }
+if(t!=max1) {
+t = 24; } p[i].style.fontSize = s+"px"
+p[i].style.lineHeight = t+"px"
+} // save the font size in a cookie for one day
+setCookie('fontsize', s, 1);
+setCookie('lineheight', t, 1);
+}
+function decreaseFontSize(e) {
+e.preventDefault();
+var p = document.getElementsByTagName('p');	$(this).css({'color':"#aeaeae","cursor":"default"});	$(".largeSize").css({'color':"#1F57A5","cursor":"pointer"});	for(i=0;i<p.length;i++) {
+if(p[i].style.fontSize) {
+var s = parseInt(p[i].style.fontSize.replace("px",""));
+} else {
+var s = 14;
+}
+if(s!=min) {
+s =14;
+}
+if(p[i].style.lineHeight) {
+var t = parseInt(p[i].style.lineHeight.replace("px","")); } else {
+var t = 18; }
+if(t!=min1) {
+t = 18; } p[i].style.lineHeight = t+"px"
+p[i].style.fontSize = s+"px"
+} // save the font size in a cookie for one day
+setCookie('fontsize', s, 1);
+setCookie('lineheight', t, 1);
+}
+$(document).ready(function() {
+// if the cookie exists, restore the variable
+var fontsize = getCookie('fontsize');
+var lineheight = getCookie('lineheight'); if (fontsize) {
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+document.getElementsByTagName('p')[i].style.fontSize = fontsize + 'px' ; }
+if(fontsize > 16)
+{
+$(".largeSize").css({'color':"#aeaeae","cursor":"default"});	$(".defaultSize").css({'color':"#1F57A5","cursor":"pointer"});
+}
+}
+if (lineheight) {
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+document.getElementsByTagName('p')[i].style.lineHeight = lineheight + 'px' }
+}
+$(".defaultSize").click(decreaseFontSize);
+$(".largeSize").click(increaseFontSize);
+});
+</script>
+<NOSCRIPT>
+<a href="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece?textsize=large&test=1" title="Large Text Size" >T+</a>&nbsp;&nbsp;·&nbsp;&nbsp; <a href="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece?textsize=small&test=2" title="Small Text Size">T-</a>
+</NOSCRIPT> </div> </div>
+<script type="text/javascript">
+function toggle() {
+var ele = document.getElementById("topShare");
+var text = document.getElementById("click");
+if(ele.style.display == "block") {
+ele.style.display = "none";
+text.innerHTML = "Share";
+}
+else {
+ele.style.display = "block";
+text.innerHTML = "Share"; }
+}
+</script> <div id="topShare">
+<div id="addsharetop">
+<div class="fshare">
+<div class="fb-like" data-href="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece" data-send="true" data-layout="button_count" data-show-faces="true" data-font="arial"> </div>
+</div>
+<div class="twit">	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.thehindu.com/sport/cricket/article3306.ece" data-count="horizontal">Tweet</a>
+</div>
+<div class="gplus">	<g:plusone size="medium"></g:plusone></div>
+<div class="inShare floatLeft">
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" data-url="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece" data-counter="right"></script>
+</div>
+<div class="pin">
+<a href="http://pinterest.com/pin/create/button/?url=http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece&media=http://www.thehindu.com/multimedia/dynamic/00000/THAROOR_jpg_647g.jpg&description= I was always a cricket buff: Tharoor" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+</div>
+<div class="twit1">
+<script type="text/javascript">
+var addthis_config = {
+"data_track_clickback":true, ui_click: true,
+services_compact: 'email, favorites, gmail, hotmail, blogger, instapaper, wordpress, more',
+services_exclude: 'facebook,twitter',
+data_ga_property: 'UA-10158580-1',
+data_ga_social: true
+}
+</script>
+<a href="http://addthis.com/bookmark.php?v=250&amp;username=thehindu" class="addthis_counter addthis_pill_style" title="Share via more services"></a>
+</div>	</div>	<div class="line2"></div>
+</div>
+<div id="article-block-vertical"> <div class="article-text">
+<div class="text-embed">
+<img src="http://www.thehindu.com/multimedia/dynamic/00000/THAROOR_jpg_647e.jpg" class="main-image" alt="Minister of State for External Affairs Shashi Tharoor along with Sachin Tendulkar during launch of the book 'Shadows Across the Playing Field', jointly written by Shashi Tharoor and Shaharyar M Khan in Mumbai." width="318" height="356" title="Minister of State for External Affairs Shashi Tharoor along with Sachin Tendulkar during launch of the book 'Shadows Across the Playing Field', jointly written by Shashi Tharoor and Shaharyar M Khan in Mumbai."/>
+<div class="photo-caption">
+<div class="photo-source">PTI</div>
+Minister of State for External Affairs Shashi Tharoor along with Sachin Tendulkar during launch of the book 'Shadows Across the Playing Field', jointly written by Shashi Tharoor and Shaharyar M Khan in Mumbai.
+</div>
+</div>
+<div class="related-column">
+<div class="related-section">
+<div id="RepCont">
+<div id="repfuldes">
+<div class="reporterName"><a href="http://www.thehindu.com/news/cities/Hyderabad/v-geetanath/article7452211.ece">V Geetanath</a></div>
+<div class="reporterDesc">
+<a href="http://www.thehindu.com/news/cities/Hyderabad/v-geetanath/article7452211.ece" title="V Geetanath" class="more"><span class="arrows">&#187;</span></a>
+</div>
+</div>
+</div>
+<div class="commonClear"></div>
+<script type="text/javascript">
+$("#RepCont").mouseover(function()
+{
+$("#repfuldes").css({display: 'block', position:'absolute'});
+}
+)
+$("#RepCont").mouseout(function()
+{
+$("#repfuldes").css("display", "none");
+}
+)
+</script>
+<div id="RepCont">
+<div id="repfuldes">
+<div class="reporterName"><a href="http://www.thehindu.com/news/national/karnataka/b-rishikesh-bahadurdesai/article7451984.ece">B Rishikesh Bahadurdesai</a></div>
+<div class="reporterDesc">
+<a href="http://www.thehindu.com/news/national/karnataka/b-rishikesh-bahadurdesai/article7451984.ece" title="B Rishikesh Bahadurdesai" class="more"><span class="arrows">&#187;</span></a>
+</div>
+</div>
+</div>
+<div class="commonClear"></div>
+<script type="text/javascript">
+$("#RepCont").mouseover(function()
+{
+$("#repfuldes").css({display: 'block', position:'absolute'});
+}
+)
+$("#RepCont").mouseout(function()
+{
+$("#repfuldes").css("display", "none");
+}
+)
+</script>
+<div id="RepCont">
+<div id="repfuldes">
+<div class="reporterName"><a href="http://www.thehindu.com/news/national/other-states/zahid-rafiq/article7448038.ece">Zahid Rafiq</a></div>
+<div class="reporterDesc">
+<a href="http://www.thehindu.com/news/national/other-states/zahid-rafiq/article7448038.ece" title="Zahid Rafiq" class="more"><span class="arrows">&#187;</span></a>
+</div>
+</div>
+</div>
+<div class="commonClear"></div>
+<script type="text/javascript">
+$("#RepCont").mouseover(function()
+{
+$("#repfuldes").css({display: 'block', position:'absolute'});
+}
+)
+$("#RepCont").mouseout(function()
+{
+$("#repfuldes").css("display", "none");
+}
+)
+</script>
+<div class="rel-block">
+<div class="r-text">TOPICS</div>
+<h3 class="cat"> <a class="bold" href="http://www.thehindu.com/tag/cricket/1683/"> cricket</a> </h3>
+<h3 class="cat"> <a href="http://www.thehindu.com/tag/oneday-cricket/1688/"> One-day cricket</a> </h3>
+<h3 class="cat"> <a href="http://www.thehindu.com/tag/test-cricket/1689/"> Test cricket</a> </h3>
+<h3 class="cat"> <a href="http://www.thehindu.com/tag/world-cup-cricket/1691/"> World Cup Cricket</a> </h3>	</div>
+</div> </div>
+<div class="article-body">
+<div class="articleLead">
+</div>
+<p class="body"> It was with awe that Mumbai&#8217;s glitterati drawn from sports, industry, commerce, arts looked at Mr. Shashi Tharoor at a book launch function organised by Mukesh and Nita Ambani at the Sea Lounge, Taj Mahal Palace and Tower on Friday evening. They were in rapt attention when Harsha Bhogle kindled Tharoor&#8217;s intellect in the course of a half hour Q &amp; A session on India-Pakistan cricket.</p><p class="body">Tharoor&#8217;s articulation on specifics reminiscing the not so hostile contests between India and Pakistan in the immediate post-partition time, the dull, dreary encounters and drawn results between the 60s and 90s and the outstanding exploits of Hanif Mohammed, Sachin Tendulkar and Virender Sehwag and India&#8217;s official stand for the potential resumption of India-Pakistan rivalry, positioned his discernment of the cricket relations between the two countries.</p><p class="body">He also said it can never be a case of their god versus our god, touching upon &#8216;Man of the Match&#8217; Shoaib Malik&#8217;s post series comment thanking all the Muslims in the world for their support after Pakistan won the 2004-05 one-day series in India 4-2. &#8220;There were Muslims in the Indian squad even then, so it&#8217;s never a case of their and our god.&#8221;</p><p class="body">There was a bit of repartee too, that went down well with the audience, amongst whom were S. Ramadorai of Tata Consultancy Services, Deepak Parekh of HDFC, Ashok Hinduja of the Hinduja Group, Naina</p><p class="body">Kidwai Lal of HSBC, theatre personality Alyque Padamsee, MPs Rajiv Shukla and Priya Dutt.</p><p class="body">After Mukesh Ambani and Sachin Tendulkar launched the book <i>Shadows Across The Playing Field</i>, the Minister of State for External Affairs, said he&#8217;s been a cricket nut right through from the age of seven when</p><p class="body">he strolled with his father from his residence at Kasturi Buildings, Churchgate to the Brabourne Stadium and saw Ajit Wadekar score 323 against Mysore and that it was a horror time when he was forced to distance himself from the game while working out of Geneva and New York and just able to snatch news of happenings in cricket from the <i>BBC</i>. &#8220;I became more passionate and dabbled in cricket writing and wrote for the Club Cricketer in England.&#8221;</p><p class="body">Tharoor did not refer to the wars, but said there was a phenomenal change in attitude and that teams from either side of the border were scared of losing after the not so hostile environment in the Test series played in the 1950s. &#8220;There was a sigh of relief when the dull, dreary matches and drawn results brought a halt to the cricket series between the two countries. Things have changed generally from Indian cricket&#8217;s point of view. There was a time when we looked apologetic against the West Indies fast bowlers, now we stand up and are ready to face,&#8221; referring to Tendulkar and Sehwag&#8217;s exploits and also to Yuvraj Singh&#8217;s six 6s in an over in the ICC Twenty20 match against England in South Africa in 2007.</p><p class="body">The former Pakistan Cricket Board Chairman and diplomat Shaharyar Khan, co-author of the book that captures 60 years of Indo-Pak cricket, was not present. Pramod Kumar Kapoor, Publisher, Roli Books informed that Khan doesn&#8217;t miss an Ashes series and is in England.</p><p class="body"> Tendulkar recalled the fickle nature of the Indians soon after the back-to-back one-day series against Pakistan in Toronto in 1997 and in Pakistan.</p><p class="body">&#8220;We were greeted by 5000 odd people at 2 a.m at the Delhi airport after we won the Toronto series 4-1 against Pakistan. They threw rose petals on us. People react to the team&#8217;s recent performances and within ten days when we lost 1-2 to Pakistan in Pakistan, we were looked upon as sort of criminals. Ijaz Ahmed played an outstanding knock in the deciding one-dayer and we lost.&#8221;</p><p class="body">Tendulkar also recalled his first Test against Pakistan. &#8220;I scored some runs in the warm-up game to impress the tour selection committee and I was selected for the first Test. I had made mental notes of Wasim Akram and Waqar Younis. I expected a yorker-length after Akram bowled a first bouncer and each time I expected a yorker-length, he bowled a bouncer. It was four in a row, which was the welcome I got to Test cricket.&#8217;&#8217;</p><p class="body">Surrounded by autograph hunters and those wanting a snap, the Minister took the centre stage even as Tendulkar nibbled at variety of sorts at the Sushi counter.</p>
+<script type="text/javascript">
+$(function() {
+$('#articleKeywords a').click( function() { var keyword = $(this).text();
+if (keyword.indexOf(' ') != -1)
+$('input#searchString').attr("value", '"' + keyword + '"');
+else
+$('input#searchString').attr("value", keyword);
+$('#simpleSearchForm').submit();
+return false;
+});
+});
+</script>
+<div id="articleKeywords"><p>Keywords: <a href="#">Shashi Tharoor</a>,&nbsp;<a href="#">cricket</a>,&nbsp;<a href="#">Sachin Tendulkar</a>,&nbsp;<a href="#">Pakistan</a>,&nbsp;<a href="#">India</a></p></div>
+<div class="noline"></div>
+<div><span style="float:right" class="count3306 c_p3"></span></div>
+<div class="noline"></div> <div id="keywordline"> </div>
+<div class="rel-block-sec">More In: <a href="http://www.thehindu.com/sport/cricket/">Cricket</a> | <a href="http://www.thehindu.com/sport/">Sport</a></div>	<div class="line1A"></div>
+<div id="addshare">	<div class="fshare">
+<div class="fb-like" data-href="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece" data-send="true" data-layout="button_count" data-show-faces="true" data-font="arial"> </div> </div>
+<div class="twit">	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.thehindu.com/sport/cricket/article3306.ece" data-count="horizontal">Tweet</a>
+</div>
+<div class="gplus">	<g:plusone size="medium"></g:plusone>
+</div>
+<div class="inShare floatLeft">
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" data-url="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece" data-counter="right"></script>
+</div>
+<div class="pin">
+<a href="http://pinterest.com/pin/create/button/?url=http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece&media=http://www.thehindu.com/multimedia/dynamic/00000/THAROOR_jpg_647g.jpg&description= I was always a cricket buff: Tharoor" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+</div>	<div class="twit1">
+<a href="http://addthis.com/bookmark.php?v=250&amp;username=thehindu" class="addthis_counter addthis_pill_style" title="Share via more services"></a>
+</div>	</div>	<div class="line2"></div>
+<div class="sportstarlive">
+<div class="ssliveArtStrip marginTop-10">
+<a href="http://www.sportstarlive.com/">MORE FROM SPORTSTARLIVE</a>
+</div>
+<div class=" marginTop-10 clearfix">
+<div class="ssliveArt">
+<a href="http://www.sportstarlive.com/cricket/indian/pujara-i-shortened-my-stance-on-dravids-advice/article7869836.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="Cheteshwar Pujara made his debut at the Chinnaswamy Stadium in Bengaluru." class="" src="http://www.sportstarlive.com/multimedia/dynamic/02617/PUJARA_2617787e.jpg" title="Cheteshwar Pujara made his debut at the Chinnaswamy Stadium in Bengaluru."></a>
+<a href="http://www.sportstarlive.com/cricket/indian/pujara-i-shortened-my-stance-on-dravids-advice/article7869836.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<h3 class="ssliveArtTit">Pujara: I shortened my stance on Dravid's advice</h3>
+</a>
+</div>
+<div class="ssliveArt">
+<a href="http://www.sportstarlive.com/cricket/indian/ab-de-villiers-nothing-wrong-with-mohali-wicket/article7869876.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="AB de Villiers will be playing his 100th Test at Bengaluru." class="" src="http://www.sportstarlive.com/multimedia/dynamic/02617/AB_2617806e.jpg" title="AB de Villiers will be playing his 100th Test at Bengaluru."></a>
+<a href="http://www.sportstarlive.com/cricket/indian/ab-de-villiers-nothing-wrong-with-mohali-wicket/article7869876.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<h3 class="ssliveArtTit">AB de Villiers: Nothing wrong with Mohali wicket</h3>
+</a>
+</div>
+<div class="ssliveArt">
+<a href="http://www.sportstarlive.com/cricket/new-zealand-should-aim-for-stunning-reversal-in-perth/article7869177.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="Mitchell Johnson defeated New Zealand's top order by pace to help Australia get on top early in Brisbane. He will be a similar threat on Perth's pacy wicket." class="" src="http://www.sportstarlive.com/multimedia/dynamic/02617/12SSLIVE-MITCHJOHN_2617399e.jpg" title="Mitchell Johnson defeated New Zealand's top order by pace to help Australia get on top early in Brisbane. He will be a similar threat on Perth's pacy wicket."></a>
+<a href="http://www.sportstarlive.com/cricket/new-zealand-should-aim-for-stunning-reversal-in-perth/article7869177.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<h3 class="ssliveArtTit">New Zealand should aim for stunning reversal in Perth</h3>
+</a>
+</div>
+<div class="ssliveArt">
+<a href="http://www.sportstarlive.com/cricket/abbott-replaces-injured-philander-for-second-test/article7869728.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="Vernon Philander is surrounded by South African players after he injured his ankle during a training session at Chinnaswamy Stadium." class="" src="http://www.sportstarlive.com/multimedia/dynamic/02617/12SSLIVE-PHILANDER_2617681e.jpg" title="Vernon Philander is surrounded by South African players after he injured his ankle during a training session at Chinnaswamy Stadium."></a>
+<a href="http://www.sportstarlive.com/cricket/abbott-replaces-injured-philander-for-second-test/article7869728.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<h3 class="ssliveArtTit">Abbott replaces injured Philander for second Test</h3>
+</a>
+</div>
+</div>
+<div class="sslivemore marginBottom-10 clearfix">
+<a href="http://www.sportstarlive.com/">
+<span class="ssliveviewMore">More</span>
+<span class="ssliveslIcon">»</span>
+</a>
+</div>
+</div>
+<div id="sspopup">
+<div class="inner">
+<div class="load"></div>
+<div class="link">go back to
+<a href="http://www.thehindu.com/sport/cricket/">thehindu.com</a>
+</div>
+</div>
+</div>
+<div class="logocode"></div>
+<div class="noline"></div>
+<div class="OUTBRAIN" data-ob-template="TheHindu" data-src="http://www.thehindu.com/sport/cricket/i-was-always-a-cricket-buff-tharoor/article3306.ece" data-widget-id="AR_1"></div>
+<script async="async" src="http://widgets.outbrain.com/outbrain.js" type="text/javascript"></script>
+<div class="noline"></div>
+<div class="artBanTopLine"></div>
+<div class="banner-ad">
+<script language="JavaScript">
+<!--
+// These variables are for maintaining state when using ad skip
+var google_num_ads = 0;
+var google_last_ad_type = '';
+function google_ad_request_done(google_ads) {
+/*
+* This function is required and is used to display
+* the ads that are returned from the JavaScript
+* request. You should modify the document.write
+* commands so that the HTML they write out fits
+* with your desired ad layout.
+*/
+var s;
+/*
+* Verify that there are actually ads to display.
+*/
+if (google_ads.length == 0)
+return;
+google_num_ads += google_ads.length;
+google_last_ad_type = google_ads[0].type;
+/*
+* If an image or Flash ad is returned, display that ad.
+* If a rich media ad is returned, display that as "as is."
+* Otherwise, build a string containing all of the ads and
+* then use a document.write() command to print that string.
+*/
+s = '<div class="ad_below_label"><a class="ad_below_attribution" href="'+
+google_info.feedback_url+'">Ads by Google</a></div>';
+if (google_ads[0].type == "image") {
+s += '<a href="' + google_ads[0].url +
+'" target="_top" title="go to ' + google_ads[0].visible_url +
+'"><img border="0" src="' + google_ads[0].image_url +
+'"width="' + google_ads[0].image_width +
+'"height="' + google_ads[0].image_height + '"></a>';
+}
+else if (google_ads[0].type == "flash") {
+s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+' WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height + '">' +
+'<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+'<PARAM NAME="quality" VALUE="high">' +
+'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+'<EMBED src="' + google_ad.image_url +
+'" WIDTH="' + google_ad.image_width +
+'" HEIGHT="' + google_ad.image_height +
+'" TYPE="application/x-shockwave-flash"' +
+' AllowScriptAccess="never" ' +
+' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+}
+else if (google_ads[0].type == "html") {
+s += google_ads[0].snippet;
+}
+else if (google_ads[0].type == "text") {
+// Adjust text sizes to occupy the majority of ad space.
+if (google_ads.length == 1) {
+ad_title_class = 'ad_below_title_large';
+ad_text_class = 'ad_below_text_large';
+ad_url_class = 'ad_below_url_large';
+} else {
+ad_title_class = 'ad_below_title';
+ad_text_class = 'ad_below_text';
+ad_url_class = 'ad_below_url';
+}
+for(var i=0; i < google_ads.length; i++) {
+s += '<div class="ad_below_background"><a class="' + ad_title_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].line1 + '</a><br><span class="' + ad_text_class + '">' +
+google_ads[i].line2 + ' ' +
+google_ads[i].line3 + '</span><br>' +
+'<a class="' + ad_url_class + '" href="' + google_ads[i].url + '" >' +
+google_ads[i].visible_url + '</a><br></div>';
+}
+}
+document.write(s);
+return;
+}
+// -->
+</script>
+<script language="JavaScript">
+<!--
+/*
+* This section is responsible for setting the parameters of the ad call
+* Customize this section to your needs with input from your account manager
+*/
+// The following parameters should be modified appropriately
+google_ad_client = 'ca-hindu_site_html'; // substitute your client_id
+google_ad_channel = '8044885342'; // substitute your channel
+google_ad_output = 'js'; // leave this value as js
+google_max_num_ads = '2'; // specify the number of maximum ads
+google_ad_type = 'text'; // type of ads to display - text,image,flash,html
+google_safe = 'high'; // specify the ad safety
+google_feedback = 'on';
+// The following parameter is required if you are displaying image, Flash or rich media ads.
+google_image_size = '468x60'; // the size of the ad block
+// The following parameters are options you can specify as necessary
+// google_encoding = 'utf8'; // specify the output language of the ads
+// google_language = 'en'; // override the default page language
+// The following parameter should be used only during testing
+// google_adtest = 'on'; // remove this line on launch day
+// -->
+</script>
+<!--
+/*
+* The JavaScript returned from the following page uses
+* the parameter values assigned above to populate an array
+* of ad objects. Once that array has been populated,
+* the JavaScript will call the google_ad_request_done
+* function to display the ads.
+*/
+-->
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="artBanTopLine"></div> <div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div id="email-section">
+<a href="mailto:letters@thehindu.co.in" title="Email the Editor ">Email the Editor</a> </div>
+<div class="line"></div>
+</div>
+<div id="right-column">
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_ROS_Sitesync , publisher: Hindu , Ad Dimension: Sitesync - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="427"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="81"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_Sitesync , publisher: Hindu , Ad Dimension: Sitesync - 1 x 1 -->
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_ROS_CPD , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="171"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_CPD , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_ROS_RT , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="195"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_RT , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag -->
+<!-- begin ZEDO for channel: Hindu_Sports_RM , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="13/1"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_Sports_RM , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_Sports_RB , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="14/1"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+</script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_Sports_RB , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_ROS_Overlay , publisher: Hindu , Ad Dimension: overlay - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="339"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="83"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_Overlay , publisher: Hindu , Ad Dimension: overlay - 1 x 1 -->
+</div>
+<div class="right-touts photo-gallery">
+<h5>
+Slideshow
+</h5>
+<a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-first-test-at-mohali-indiasouth-africa-first-test-in-pictures/article7855495.ece?ref=slideshow"><img class="bordered-image-ss" width="256" height="192" src="http://www.thehindu.com/multimedia/dynamic/02613/KESAVAN_2613133h.jpg" alt="Indian Test captain Virat Kohli being greeted by his South African counterpart Hashim Amla after the Indian win in the first Test in Mohali on Saturday. Photo: Akhilesh Kumar" title="Indian Test captain Virat Kohli being greeted by his South African counterpart Hashim Amla after the Indian win in the first Test in Mohali on Saturday. Photo: Akhilesh Kumar"/></a>
+<div id="show-link">
+<h3><a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-first-test-at-mohali-indiasouth-africa-first-test-in-pictures/article7855495.ece?ref=slideshow" title="Updated: November 7, 2015 at 17:49 IST &#013;
+Published: November 7, 2015 at 17:45 IST &#013;
+in CRICKET" alt="Updated: November 7, 2015 at 17:49 IST &#013;
+Published: November 7, 2015 at 17:45 IST &#013;
+in CRICKET">India-South Africa First Test: In pictures</a></h3>
+</div>
+<div id="show-linklead">
+The spin trio of Ashwin, Jadeja and Mishra scalped 19 South African wickets at Mohali as India thumped South Africa by 108 runs. </div>
+<div class="related-section">
+</div>
+<div class="clear"></div>
+<div class="more-slideshows">
+<a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-first-test-at-mohali-indiasouth-africa-first-test-in-pictures/article7855495.ece?ref=slideshow" title="">
+more slideshows
+<span class="arrows">&#187;</span>
+</a>
+</div>
+</div>
+<a href="http://www.thehindu.com/system/topicRoot/South_Africa_tour_of_India/"><h3>South Africa tour of India</h3></a>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-test-series-india-versus-south-africa-second-test-at-bengaluru/article7872677.ece" title="Updated: November 13, 2015 at 13:33 IST &#013;
+Published: November 13, 2015 at 13:33 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 13:33 IST &#013;
+Published: November 13, 2015 at 13:33 IST &#013;
+in CRICKET">India set to cast ‘spin spell’ in de Villiers’ 100th Test</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/cricket/de-villiers-popularity-soars-as-he-readies-for-100th-test/article7872551.ece" title="Updated: November 13, 2015 at 13:21 IST &#013;
+Published: November 13, 2015 at 12:27 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 13:21 IST &#013;
+Published: November 13, 2015 at 12:27 IST &#013;
+in CRICKET"> De Villiers' popularity soars as he readies for 100th test </a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-fourth-test-at-ferozshah-kotla-ground-ddca-positive-has-government-backing-says-bansal/article7872810.ece" title="Updated: November 13, 2015 at 14:42 IST &#013;
+Published: November 13, 2015 at 14:42 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 14:42 IST &#013;
+Published: November 13, 2015 at 14:42 IST &#013;
+in CRICKET"> DDCA positive, has government backing: Bansal</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-fourth-test-will-appeal-to-arvind-kejriwal-for-reevaluation-of-tax-chauhan/article7866715.ece" title="Updated: November 11, 2015 at 18:20 IST &#013;
+Published: November 11, 2015 at 18:20 IST &#013;
+in CRICKET" alt="Updated: November 11, 2015 at 18:20 IST &#013;
+Published: November 11, 2015 at 18:20 IST &#013;
+in CRICKET"> Will appeal to CM for re-evaluation of tax: Chauhan</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-first-test-at-mohali-most-dismissals-were-due-to-lack-of-turn-says-amla/article7855806.ece" title="Updated: November 7, 2015 at 19:39 IST &#013;
+Published: November 7, 2015 at 19:39 IST &#013;
+in CRICKET" alt="Updated: November 7, 2015 at 19:39 IST &#013;
+Published: November 7, 2015 at 19:39 IST &#013;
+in CRICKET"> Most dismissals were due to lack of turn: Amla</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/cricket/looks-like-itll-be-kotla-after-all/article7870758.ece" title="Updated: November 13, 2015 at 02:29 IST &#013;
+Published: November 13, 2015 at 02:29 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 02:29 IST &#013;
+Published: November 13, 2015 at 02:29 IST &#013;
+in CRICKET"> Looks like it’ll be Kotla, after all</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/cricket/one-of-my-favourite-stadiums-pujara/article7870753.ece" title="Updated: November 13, 2015 at 02:27 IST &#013;
+Published: November 13, 2015 at 02:27 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 02:27 IST &#013;
+Published: November 13, 2015 at 02:27 IST &#013;
+in CRICKET"> One of my favourite stadiums: Pujara</a></h3></div>
+<div class="clear"></div>
+<a href="http://www.thehindu.com/system/topicRoot/South_Africa_tour_of_India/" class="block-more">More South Africa tour of India &raquo;</a> <div class="mostPopularCommentsRecentHolder mBottom clearfix">
+<ul class="nav nav-tabs mostTitles fontB600">
+<li class="active">
+<a data-toggle="tab" href="#home">Recent</a>
+</li>
+<li>
+<a data-toggle="tab" href="#menu2">Popular</a>
+</li>
+</ul>
+<div class="mostContents sportstarlive">
+<div class="mostRecent">
+<div class="mpmcStory">
+<div style="padding:0px 10px">
+<div class="mostPopularImageHolder" style="padding-right:15px; padding-left:0px;float:left">
+<a href="http://www.sportstarlive.com/football/international-football/rooney-welcomes-challenge-for-england/article7872791.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="England's Wayne Rooney and manager Roy Hodgson during the press conference. With 50 goals in 107 appearances, Rooney is England's all time record goalscorer." src="http://www.sportstarlive.com/multimedia/dynamic/02619/13_SSLIVE_ROONEYHO_2619100f.jpg" title="England's Wayne Rooney and manager Roy Hodgson during the press conference. With 50 goals in 107 appearances, Rooney is England's all time record goalscorer."/>
+</a>
+</div>
+<div class="secTitle">
+<strong>
+<a href="http://www.sportstarlive.com/football/international-football/rooney-welcomes-challenge-for-england/article7872791.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding" title="Updated: November 13, 2015 at 14:30 IST &#013;
+Published: November 13, 2015 at 14:30 IST &#013;
+in INTERNATIONAL">Rooney welcomes challenge for England</a>
+</strong>
+</div>
+</div>
+</div>
+<div class="hrLine"></div>
+<div class="mpmcStory">
+<div style="padding:0px 10px">
+<div class="mostPopularImageHolder" style="padding-right:15px; padding-left:0px;float:left">
+<a href="http://www.sportstarlive.com/football/fifa-presidency-candidates-confirmed/article7872776.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="" src="http://www.sportstarlive.com/multimedia/dynamic/02619/13_SSLIVE_PLATINI_2619101f.jpg" title=""/>
+</a>
+</div>
+<div class="secTitle">
+<strong>
+<a href="http://www.sportstarlive.com/football/fifa-presidency-candidates-confirmed/article7872776.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding" title="Updated: November 13, 2015 at 14:27 IST &#013;
+Published: November 13, 2015 at 14:27 IST &#013;
+in FOOTBALL">FIFA presidency candidates confirmed</a>
+</strong>
+</div>
+</div>
+</div>
+<div class="hrLine"></div>
+<div class="mpmcStory">
+<div style="padding:0px 10px">
+<div class="mostPopularImageHolder" style="padding-right:15px; padding-left:0px;float:left">
+<a href="http://www.sportstarlive.com/motorsport/giancarlo-fisichella-interlagos-is-my-favourite/article7872680.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="" src="http://www.sportstarlive.com/multimedia/dynamic/02619/13_SSLIVE_FISICHEL_2619058f.jpg" title=""/>
+</a>
+</div>
+<div class="secTitle">
+<strong>
+<a href="http://www.sportstarlive.com/motorsport/giancarlo-fisichella-interlagos-is-my-favourite/article7872680.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding" title="Updated: November 13, 2015 at 13:38 IST &#013;
+Published: November 13, 2015 at 13:38 IST &#013;
+in MOTORSPORT">Giancarlo Fisichella: Interlagos is my favourite</a>
+</strong>
+</div>
+</div>
+</div>
+<div class="hrLine"></div>
+<div class="sslivePowered">
+<a href="http://www.sportstarlive.com/"><img src="http://www.thehindu.com/template/1-0-1/gfx/poweredsslive.png" style="float:right"/></a>
+</div>
+</div>
+<div class="mostPopular hidden">
+<div class="mpmcStory">
+<div style="padding:0px 4px 0 10px">
+<div class="mostPopularImageHolder col-xs-6" style="padding-right:15px; padding-left:0px;float:left;">
+<a href="http://www.sportstarlive.com/cricket/indian/pujara-i-shortened-my-stance-on-dravids-advice/article7869836.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="Cheteshwar Pujara made his debut at the Chinnaswamy Stadium in Bengaluru." src="http://www.sportstarlive.com/multimedia/dynamic/02617/PUJARA_2617787f.jpg" title="Cheteshwar Pujara made his debut at the Chinnaswamy Stadium in Bengaluru."/>
+</a>
+</div>
+<div class="secTitle">
+<strong>
+<a href="http://www.sportstarlive.com/cricket/indian/pujara-i-shortened-my-stance-on-dravids-advice/article7869836.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding" title="Updated: November 13, 2015 at 12:23 IST &#013;
+Published: November 12, 2015 at 20:46 IST &#013;
+in INDIA">Pujara: I shortened my stance on Dravid's advice
+</a>
+</strong>
+</div>
+</div>
+</div>
+<div class="hrLine"></div>
+<div class="mpmcStory">
+<div style="padding:0px 4px 0 10px">
+<div class="mostPopularImageHolder col-xs-6" style="padding-right:15px; padding-left:0px;float:left;">
+<a href="http://www.sportstarlive.com/cricket/indian/ab-de-villiers-nothing-wrong-with-mohali-wicket/article7869876.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="AB de Villiers will be playing his 100th Test at Bengaluru." src="http://www.sportstarlive.com/multimedia/dynamic/02617/AB_2617806f.jpg" title="AB de Villiers will be playing his 100th Test at Bengaluru."/>
+</a>
+</div>
+<div class="secTitle">
+<strong>
+<a href="http://www.sportstarlive.com/cricket/indian/ab-de-villiers-nothing-wrong-with-mohali-wicket/article7869876.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding" title="Updated: November 13, 2015 at 12:23 IST &#013;
+Published: November 12, 2015 at 20:46 IST &#013;
+in INDIA">AB de Villiers: Nothing wrong with Mohali wicket
+</a>
+</strong>
+</div>
+</div>
+</div>
+<div class="hrLine"></div>
+<div class="mpmcStory">
+<div style="padding:0px 4px 0 10px">
+<div class="mostPopularImageHolder col-xs-6" style="padding-right:15px; padding-left:0px;float:left;">
+<a href="http://www.sportstarlive.com/cricket/international/odi/pakistan-beat-england-in-younis-khans-final-odi/article7867021.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding">
+<img alt="Mohammad Hafeez celebrates his century with Babar Azam." src="http://www.sportstarlive.com/multimedia/dynamic/02616/SSLIVE_1111_PAK_2616673f.jpg" title="Mohammad Hafeez celebrates his century with Babar Azam."/>
+</a>
+</div>
+<div class="secTitle">
+<strong>
+<a href="http://www.sportstarlive.com/cricket/international/odi/pakistan-beat-england-in-younis-khans-final-odi/article7867021.ece?utm_source=thwidget&utm_medium=link&utm_campaign=seeding" title="Updated: November 12, 2015 at 00:29 IST &#013;
+Published: November 12, 2015 at 00:05 IST &#013;
+in ODI">Pakistan beat England in Younis Khan’s final ODI
+</a>
+</strong>
+</div>
+</div>
+</div>
+<div class="hrLine"></div>
+<div class="sslivePowered">
+<a href="http://www.sportstarlive.com/"><img src="http://www.thehindu.com/template/1-0-1/gfx/poweredsslive.png" style="float:right"/></a>
+</div>
+</div>
+</div>
+</div>
+<div id="sspopup">
+<div class="inner">
+<div class="load"></div>
+<div class="link">go back to
+<a href="http://www.thehindu.com/sport/cricket/">thehindu.com</a>
+</div>
+</div>
+</div>
+<script>
+$(".mostTitles li").each(function (idx) {
+$(this).click(function (e) {
+$(".mostTitles li").removeClass("active");
+$(this).removeClass("hidden").addClass("active");
+$(".mostContents>div:eq(" + idx +
+")").removeClass("hidden");
+$(".mostContents>div").not(":eq(" + idx +
+")").addClass("hidden");
+});
+});
+</script>
+<div id="ad1" class="right-tout">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4662255021446444";
+/* hindu_sports_300x250_BTF_01 */
+google_ad_slot = "8102221015";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="articlespace"></div>
+<div id="breaking-link"><h3><a href="http://www.thehindu.com/sport/article4550198.ece" title="">Sports Columnists</a></h3></div>
+<div class="right-tout headlines">
+<div>
+<ul>
+<li>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/opinion/columns/nirmal_shekar/" title="" target="_blank">Nirmal Shekar</a></h3></div>
+</li>
+<li>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/opinion/columns/suresh-menon/" title="" target="_blank">Suresh Menon</a></h3></div>
+</li>
+<li>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/opinion/columns/greg-chappel/" title="" target="_blank">Greg Chappell</a></h3></div>
+</li>
+<li>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/opinion/columns/makarand-waingankar/" title="" target="_blank">Makarand Waingankar</a></h3></div>
+</li>
+<li>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/opinion/columns/ted-corbett/" title="" target="_blank">Ted Corbett</a></h3></div>
+</li>
+</ul>
+<ul>
+</ul>
+</div>
+</div>
+<a href="http://www.thehindu.com/sport/tennis/"><h3>Tennis</h3></a>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/sport/tennis/top10-is-svitolinas-goal/article7869960.ece" title="Updated: November 13, 2015 at 02:41 IST &#013;
+Published: November 13, 2015 at 02:41 IST &#013;
+in TENNIS" alt="Updated: November 13, 2015 at 02:41 IST &#013;
+Published: November 13, 2015 at 02:41 IST &#013;
+in TENNIS">Top-10 is Svitolina’s goal</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/alappuzha-sweeps-youth-team-titles/article7870759.ece" title="Updated: November 13, 2015 at 02:34 IST &#013;
+Published: November 13, 2015 at 02:34 IST &#013;
+in TENNIS" alt="Updated: November 13, 2015 at 02:34 IST &#013;
+Published: November 13, 2015 at 02:34 IST &#013;
+in TENNIS"> Alappuzha sweeps youth team titles</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/australian-opens-rod-laver-arena-melbourne-park-set-for-major-facelift/article7866284.ece" title="Updated: November 11, 2015 at 16:14 IST &#013;
+Published: November 11, 2015 at 16:14 IST &#013;
+in TENNIS" alt="Updated: November 11, 2015 at 16:14 IST &#013;
+Published: November 11, 2015 at 16:14 IST &#013;
+in TENNIS"> Melbourne Park set for major facelift</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/bhupathi-iptl-is-about-experience-of-playing-with-stars/article7865436.ece" title="Updated: November 10, 2015 at 18:11 IST &#013;
+Published: November 10, 2015 at 18:11 IST &#013;
+in TENNIS" alt="Updated: November 10, 2015 at 18:11 IST &#013;
+Published: November 10, 2015 at 18:11 IST &#013;
+in TENNIS"> Bhupathi: IPTL is about experience of playing with stars</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/ctl-provided-martina-hingis-platform-to-reset-her-targets/article7865655.ece" title="Updated: November 10, 2015 at 19:27 IST &#013;
+Published: November 10, 2015 at 19:27 IST &#013;
+in TENNIS" alt="Updated: November 10, 2015 at 19:27 IST &#013;
+Published: November 10, 2015 at 19:27 IST &#013;
+in TENNIS"> ‘CTL provided Martina Hingis platform to reset her targets’</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/amritraj-india-has-good-chance-of-winning-tennis-medals-in-rio/article7865632.ece" title="Updated: November 10, 2015 at 18:44 IST &#013;
+Published: November 10, 2015 at 18:44 IST &#013;
+in TENNIS" alt="Updated: November 10, 2015 at 18:44 IST &#013;
+Published: November 10, 2015 at 18:44 IST &#013;
+in TENNIS"> Amritraj: India has good chance of winning tennis medals in Rio</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/paris-masters-tennis-championship-djokovic-faces-murray-in-paris-masters-finals/article7858279.ece" title="Updated: November 8, 2015 at 15:42 IST &#013;
+Published: November 8, 2015 at 15:42 IST &#013;
+in TENNIS" alt="Updated: November 8, 2015 at 15:42 IST &#013;
+Published: November 8, 2015 at 15:42 IST &#013;
+in TENNIS"> Djokovic faces Murray in Paris Masters finals</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/paris-masters-tennis-tournament-nadal-journey-ends-djokovic-through-to-semis/article7855682.ece" title="Updated: November 7, 2015 at 18:39 IST &#013;
+Published: November 7, 2015 at 18:39 IST &#013;
+in TENNIS" alt="Updated: November 7, 2015 at 18:39 IST &#013;
+Published: November 7, 2015 at 18:39 IST &#013;
+in TENNIS"> Nadal journey ends, Djokovic through to semis</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/atp-paris-masters-andy-murray-in-last-four/article7851805.ece" title="Updated: November 7, 2015 at 01:34 IST &#013;
+Published: November 7, 2015 at 01:08 IST &#013;
+in TENNIS" alt="Updated: November 7, 2015 at 01:34 IST &#013;
+Published: November 7, 2015 at 01:08 IST &#013;
+in TENNIS"> Murray in last four of ATP Paris Masters </a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/tennis/nadal-saves-match-point-in-comeback-win-at-paris-masters/article7850554.ece" title="Updated: November 6, 2015 at 15:26 IST &#013;
+Published: November 6, 2015 at 15:26 IST &#013;
+in TENNIS" alt="Updated: November 6, 2015 at 15:26 IST &#013;
+Published: November 6, 2015 at 15:26 IST &#013;
+in TENNIS"> Nadal saves match point in comeback win at Paris Masters</a></h3></div>
+<div class="line"></div>
+<a href="http://www.thehindu.com/sport/football/"><h3>Football</h3></a>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/sport/football/india-finally-taste-victory-beat-guam-in-fifa-wc-qualifiers/article7869987.ece" title="Updated: November 13, 2015 at 02:32 IST &#013;
+Published: November 12, 2015 at 22:23 IST &#013;
+in FOOTBALL" alt="Updated: November 13, 2015 at 02:32 IST &#013;
+Published: November 12, 2015 at 22:23 IST &#013;
+in FOOTBALL">India finally taste victory, beat Guam in FIFA WC qualifiers </a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/desperate-mumbai-city-needs-a-big-push/article7869961.ece" title="Updated: November 13, 2015 at 02:35 IST &#013;
+Published: November 13, 2015 at 02:35 IST &#013;
+in FOOTBALL" alt="Updated: November 13, 2015 at 02:35 IST &#013;
+Published: November 13, 2015 at 02:35 IST &#013;
+in FOOTBALL"> Desperate Mumbai City needs a big push</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/neymar-better-than-messi-or-ronaldo-dunga/article7868884.ece" title="Updated: November 12, 2015 at 11:12 IST &#013;
+Published: November 12, 2015 at 11:08 IST &#013;
+in FOOTBALL" alt="Updated: November 12, 2015 at 11:12 IST &#013;
+Published: November 12, 2015 at 11:08 IST &#013;
+in FOOTBALL"> Neymar better than Messi or Ronaldo: Dunga</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/india-still-searching-for-first-points/article7867449.ece" title="Updated: November 12, 2015 at 02:37 IST &#013;
+Published: November 12, 2015 at 02:37 IST &#013;
+in FOOTBALL" alt="Updated: November 12, 2015 at 02:37 IST &#013;
+Published: November 12, 2015 at 02:37 IST &#013;
+in FOOTBALL"> India still searching for first points</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/neufc-does-a-second-double/article7867447.ece" title="Updated: November 12, 2015 at 02:32 IST &#013;
+Published: November 12, 2015 at 02:32 IST &#013;
+in FOOTBALL" alt="Updated: November 12, 2015 at 02:32 IST &#013;
+Published: November 12, 2015 at 02:32 IST &#013;
+in FOOTBALL"> NEUFC does a second ‘double’</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/indian-super-league-2015-isl-2015-postiga-lekic-boost-for-atletico-de-kolkata-versus-delhi-dynamos/article7866662.ece" title="Updated: November 11, 2015 at 17:21 IST &#013;
+Published: November 11, 2015 at 17:21 IST &#013;
+in FOOTBALL" alt="Updated: November 11, 2015 at 17:21 IST &#013;
+Published: November 11, 2015 at 17:21 IST &#013;
+in FOOTBALL"> Postiga, Lekic boost for ATK versus Delhi Dynamos</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/legend-franz-beckenbauer-under-pressure-to-explain-2006-football-world-cup-scandal/article7866310.ece" title="Updated: November 11, 2015 at 16:30 IST &#013;
+Published: November 11, 2015 at 16:30 IST &#013;
+in FOOTBALL" alt="Updated: November 11, 2015 at 16:30 IST &#013;
+Published: November 11, 2015 at 16:30 IST &#013;
+in FOOTBALL"> Beckenbauer under pressure to explain 2006 WC scandal</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/india-versus-guam-2018-football-world-cup-qualifying-match-at-bengaluru-india-aims-for-first-win-in-match-against-guam/article7866109.ece" title="Updated: November 11, 2015 at 14:18 IST &#013;
+Published: November 11, 2015 at 14:18 IST &#013;
+in FOOTBALL" alt="Updated: November 11, 2015 at 14:18 IST &#013;
+Published: November 11, 2015 at 14:18 IST &#013;
+in FOOTBALL"> India aims for first win in match against Guam</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/rio-olympics-2016-fifa-unveils-rio-2016-schedule/article7866057.ece" title="Updated: November 11, 2015 at 13:38 IST &#013;
+Published: November 11, 2015 at 13:38 IST &#013;
+in FOOTBALL" alt="Updated: November 11, 2015 at 13:38 IST &#013;
+Published: November 11, 2015 at 13:38 IST &#013;
+in FOOTBALL"> FIFA unveils Rio 2016 schedule</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/football/brazil-versus-argentina-2018-world-cup-qualifying-football-match-i-want-to-start-against-argentina-says-kaka/article7866007.ece" title="Updated: November 11, 2015 at 13:04 IST &#013;
+Published: November 11, 2015 at 13:04 IST &#013;
+in FOOTBALL" alt="Updated: November 11, 2015 at 13:04 IST &#013;
+Published: November 11, 2015 at 13:04 IST &#013;
+in FOOTBALL"> I want to start against Argentina: Kaka</a></h3></div>
+<div class="line"></div>
+<a href="http://www.thehindu.com/sport/races/"><h3>Races</h3></a>
+<div class="smltitle"><h3><a href="http://www.thehindu.com/sport/races/madras-races-rescheduled/article7869445.ece" title="Updated: November 12, 2015 at 19:13 IST &#013;
+Published: November 12, 2015 at 19:13 IST &#013;
+in RACES" alt="Updated: November 12, 2015 at 19:13 IST &#013;
+Published: November 12, 2015 at 19:13 IST &#013;
+in RACES">Madras races re-scheduled</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/goldberg-well-prepared/article7869413.ece" title="Updated: November 12, 2015 at 19:13 IST &#013;
+Published: November 12, 2015 at 19:13 IST &#013;
+in RACES" alt="Updated: November 12, 2015 at 19:13 IST &#013;
+Published: November 12, 2015 at 19:13 IST &#013;
+in RACES"> Goldberg well prepared</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/chennai-horse-races-supreme-regime-fancied/article7866658.ece" title="Updated: November 11, 2015 at 17:17 IST &#013;
+Published: November 11, 2015 at 17:17 IST &#013;
+in RACES" alt="Updated: November 11, 2015 at 17:17 IST &#013;
+Published: November 11, 2015 at 17:17 IST &#013;
+in RACES"> Supreme Regime fancied</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/thursdays-races-postponed/article7866005.ece" title="Updated: November 11, 2015 at 17:16 IST &#013;
+Published: November 11, 2015 at 17:16 IST &#013;
+in RACES" alt="Updated: November 11, 2015 at 17:16 IST &#013;
+Published: November 11, 2015 at 17:16 IST &#013;
+in RACES"> Thursday’s races postponed</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/acclaimed-in-fine-form/article7861449.ece" title="Updated: November 11, 2015 at 17:17 IST &#013;
+Published: November 9, 2015 at 17:29 IST &#013;
+in RACES" alt="Updated: November 11, 2015 at 17:17 IST &#013;
+Published: November 9, 2015 at 17:29 IST &#013;
+in RACES"> Acclaimed in fine form</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/bangalore-races-put-off/article7861975.ece" title="Updated: November 9, 2015 at 18:34 IST &#013;
+Published: November 9, 2015 at 18:34 IST &#013;
+in RACES" alt="Updated: November 9, 2015 at 18:34 IST &#013;
+Published: November 9, 2015 at 18:34 IST &#013;
+in RACES"> Bangalore races put off</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/let-the-lion-roar-and-hurrah-please/article7860884.ece" title="Updated: November 9, 2015 at 17:29 IST &#013;
+Published: November 9, 2015 at 17:29 IST &#013;
+in RACES" alt="Updated: November 9, 2015 at 17:29 IST &#013;
+Published: November 9, 2015 at 17:29 IST &#013;
+in RACES"> Let The Lion Roar and Hurrah please</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/vijay-vaishnavee-wins-main-event/article7861757.ece" title="Updated: November 9, 2015 at 17:30 IST &#013;
+Published: November 9, 2015 at 17:28 IST &#013;
+in RACES" alt="Updated: November 9, 2015 at 17:30 IST &#013;
+Published: November 9, 2015 at 17:28 IST &#013;
+in RACES"> Vijay Vaishnavee wins main event</a></h3></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/hyderabad-horse-races-alameda-poised-to-complete-hattrick/article7858407.ece" title="Updated: November 8, 2015 at 18:12 IST &#013;
+Published: November 8, 2015 at 18:12 IST &#013;
+in RACES" alt="Updated: November 8, 2015 at 18:12 IST &#013;
+Published: November 8, 2015 at 18:12 IST &#013;
+in RACES"> Alameda poised to complete hat-trick</a></h3></div>
+<div class="clear"></div>
+<div class="smltitle1"><h3><a href="http://www.thehindu.com/sport/races/hyderabad-horse-races-palm-springs-triumphs/article7858376.ece" title="Updated: November 8, 2015 at 17:57 IST &#013;
+Published: November 8, 2015 at 17:57 IST &#013;
+in RACES" alt="Updated: November 8, 2015 at 17:57 IST &#013;
+Published: November 8, 2015 at 17:57 IST &#013;
+in RACES"> Palm Springs triumphs</a></h3></div>
+<div class="line"></div>
+<div id="most-tab">
+<div id="most-tab-header" class="tab-header">
+<a class="tabhead" id="th1" title="Most Popular">Most Popular</a>
+<a class="tabhead" id="th2" title="Most Commented">Most Commented</a>
+<div class="clear"></div>
+</div>
+<div class="tab1 tab">
+<h3>
+<a href="http://www.thehindu.com/sport/cricket/yuvraj-engaged-to-bollywood-actress-hazel-keech-reports/article7870059.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 12, 2015 at 23:57 IST &#013;
+Published: November 12, 2015 at 23:57 IST &#013;
+in CRICKET" alt="Updated: November 12, 2015 at 23:57 IST &#013;
+Published: November 12, 2015 at 23:57 IST &#013;
+in CRICKET">Yuvraj engaged to Bollywood actress Hazel Keech: reports </a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/cricket-all-stars-series-warnes-warriors-win-over-sachins-blasters/article7868905.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 12, 2015 at 11:32 IST &#013;
+Published: November 12, 2015 at 11:24 IST &#013;
+in CRICKET" alt="Updated: November 12, 2015 at 11:32 IST &#013;
+Published: November 12, 2015 at 11:24 IST &#013;
+in CRICKET">Warne’s Warriors wallop Sachin’s Blasters to seal series </a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/im-not-a-nice-guy-on-the-field-de-villiers/article7870534.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 13, 2015 at 02:05 IST &#013;
+Published: November 13, 2015 at 02:05 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 02:05 IST &#013;
+Published: November 13, 2015 at 02:05 IST &#013;
+in CRICKET">I’m not a nice guy on the field: de Villiers</a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-test-series-india-versus-south-africa-second-test-at-bengaluru/article7872677.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 13, 2015 at 13:33 IST &#013;
+Published: November 13, 2015 at 13:33 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 13:33 IST &#013;
+Published: November 13, 2015 at 13:33 IST &#013;
+in CRICKET">India set to cast ‘spin spell’ in de Villiers’ 100th Test</a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/cricket-all-stars-twenty20-series-cricket-all-stars-moves-to-houston-for-second-t20/article7866262.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 11, 2015 at 16:05 IST &#013;
+Published: November 11, 2015 at 16:05 IST &#013;
+in CRICKET" alt="Updated: November 11, 2015 at 16:05 IST &#013;
+Published: November 11, 2015 at 16:05 IST &#013;
+in CRICKET">Cricket All Stars moves to Houston for second T20</a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/ab-de-villiers-says-south-african-loss-in-1st-test-blown-out-of-proportion/article7869597.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 12, 2015 at 18:04 IST &#013;
+Published: November 12, 2015 at 18:04 IST &#013;
+in CRICKET" alt="Updated: November 12, 2015 at 18:04 IST &#013;
+Published: November 12, 2015 at 18:04 IST &#013;
+in CRICKET">Our loss in 1st Test blown out of proportion: De Villiers</a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/ipl-fema-probe-ed-records-srks-statement/article7869171.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 12, 2015 at 14:21 IST &#013;
+Published: November 12, 2015 at 14:20 IST &#013;
+in CRICKET" alt="Updated: November 12, 2015 at 14:21 IST &#013;
+Published: November 12, 2015 at 14:20 IST &#013;
+in CRICKET">IPL FEMA probe: ED records SRK’s statement </a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/former-pakistan-captain-younis-khan-retirement-from-odis-younis-sudden-odi-retirement-fuels-rift-rumours/article7866798.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 12, 2015 at 01:48 IST &#013;
+Published: November 11, 2015 at 19:37 IST &#013;
+in CRICKET" alt="Updated: November 12, 2015 at 01:48 IST &#013;
+Published: November 11, 2015 at 19:37 IST &#013;
+in CRICKET">Younis’ sudden ODI retirement fuels rift rumours</a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/cricket-allstars-second-match-huge-crowd-pours-in-to-watch-second-match-of-cricket-allstars/article7872603.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 13, 2015 at 12:53 IST &#013;
+Published: November 13, 2015 at 12:51 IST &#013;
+in CRICKET" alt="Updated: November 13, 2015 at 12:53 IST &#013;
+Published: November 13, 2015 at 12:51 IST &#013;
+in CRICKET">Huge crowd pours in to watch second Cricket All-Stars match</a>
+</h3> <h3>
+<a href="http://www.thehindu.com/sport/cricket/ed-questions-shah-rukh-khan/article7866123.ece?utm_source=MostPopular&utm_medium=Cricket&utm_campaign=WidgetPromo" title="Updated: November 12, 2015 at 01:36 IST &#013;
+Published: November 11, 2015 at 14:39 IST &#013;
+in CRICKET" alt="Updated: November 12, 2015 at 01:36 IST &#013;
+Published: November 11, 2015 at 14:39 IST &#013;
+in CRICKET">ED questions Shah Rukh Khan</a>
+</h3> </div>
+<div class="tab2 tab">
+<h3>
+<div class="commentspan">
+<a href="http://www.thehindu.com/sport/cricket/ed-questions-shah-rukh-khan/article7866123.ece?utm_source=MostCommented&utm_medium=Homepage&utm_campaign=WidgetPromo">ED questions Shah Rukh Khan</a>
+<span class="count7866123 c_p2 "></span>	</div>
+</h3>
+<h3>
+<div class="commentspan">
+<a href="http://www.thehindu.com/sport/cricket/former-pakistan-captain-younis-khan-retirement-shaharyar-expresses-disappointment-over-younis-retirement/article7866731.ece?utm_source=MostCommented&utm_medium=Homepage&utm_campaign=WidgetPromo">Shaharyar expresses disappointment over Younis retirement</a>
+<span class="count7866731 c_p2 "></span>	</div>
+</h3>
+<h3>
+<div class="commentspan">
+<a href="http://www.thehindu.com/sport/cricket/bccis-sleight-of-handkeeps-rabbit-in-the-hat/article7867452.ece?utm_source=MostCommented&utm_medium=Homepage&utm_campaign=WidgetPromo">BCCI’s sleight of hand keeps rabbit in the hat</a>
+<span class="count7867452 c_p2 "></span>	</div>
+</h3>
+<h3>
+<div class="commentspan">
+<a href="http://www.thehindu.com/sport/cricket/ab-de-villiers-says-south-african-loss-in-1st-test-blown-out-of-proportion/article7869597.ece?utm_source=MostCommented&utm_medium=Homepage&utm_campaign=WidgetPromo">Our loss in 1st Test blown out of proportion: De Villiers</a>
+<span class="count7869597 c_p2 "></span>	</div>
+</h3>
+<h3>
+<div class="commentspan">
+<a href="http://www.thehindu.com/sport/cricket/im-not-a-nice-guy-on-the-field-de-villiers/article7870534.ece?utm_source=MostCommented&utm_medium=Homepage&utm_campaign=WidgetPromo">I’m not a nice guy on the field: de Villiers</a>
+<span class="count7870534 c_p2 "></span>	</div>
+</h3>
+<h3>
+<div class="commentspan">
+<a href="http://www.thehindu.com/opinion/columns/nirmal_shekar/from-the-voice-to-noise/article7870756.ece?utm_source=MostCommented&utm_medium=Homepage&utm_campaign=WidgetPromo">From The Voice to noise</a>
+<span class="count7870756 c_p2 "></span>	</div>
+</h3>
+</div>
+</div>
+<br/>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag -->
+<!-- begin ZEDO for channel: Hindu_ROS_BR_300x250 , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="147"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_BR_300x250 , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_ROS_RB1 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="431"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="90"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_RB1 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_ROS_RB2 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="432"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="90"; </script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_RB2 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+</div>
+<div id="ad1" class="right-tout">
+<script type="text/javascript">
+$(document).ready(function(){
+$("#ad1.right-tout").find("#zzblankad").parent().css({"margin": "0px"});
+});
+</script>
+<style>
+#inscl-wrapper .ui-accordion .ui-accordion-header{
+text-transform:none;
+}
+.twit {height:24px;overflow:hidden;}
+</style>
+</div>
+<div class="OUTBRAIN" data-ob-template="TheHindu" data-src="http://www.thehindu.com/sport/" data-widget-id="SB_1"></div>
+<script async="async" src="http://widgets.outbrain.com/outbrain.js" type="text/javascript"></script>
+<div class="noline"></div>
+<div id="fun-games" class="right-tout">
+<div>
+<h5>Group Sites</h5>
+<a href="http://www.thehindu.com/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'The Hindu')" target="_blank" title="The Hindu">The Hindu</a> <a href="http://tamil.thehindu.com/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'தி இந்து')" target="_blank" title="தி இந்து">தி இந்து</a> <a href="http://www.thehindubusinessline.com/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Business Line')" target="_blank" title="Business Line">Business Line</a> <a href="http://www.bloncampus.com/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'BL on Campus')" target="_blank" title="BL on Campus">BL on Campus</a> <a href="http://www.sportstarlive.com/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Sportstarlive')" target="_blank" title="Sportstarlive">Sportstarlive</a> <a href="http://www.frontline.in/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Frontline')" target="_blank" title="Frontline">Frontline</a> <a href="http://www.thehinducentre.com/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'The Hindu Centre')" target="_blank" title="The Hindu Centre">The Hindu Centre</a> <a href="http://www.thehinduimages.com/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Images')" target="_blank" title="Images">Images</a> <a href="http://www.thehinduclassifieds.in/" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Classifieds')" target="_blank" title="Classifieds">Classifieds</a> <a href="http://www.roofandfloor.com/?utm_source=thehindu&utm_medium=Side-widget&utm_campaign=Internal-Marketing" rel="nofollow" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'RoofandFloor')" target="_blank" title="RoofandFloor">RoofandFloor</a> <div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="noline"></div>
+<script type="text/javascript">
+$( document ).ready(function() {
+commentcount("http://vuukle.com/api.asmx/getCommentCountListJSON?id=432081eb-6e8e-4abc-a88f-ca5357aa7244&list=7866123%2c7866731%2c7867452%2c7869597%2c7870534%2c7870756",countlist);
+});
+</script>	<br /> <div id="topover"><p>O<br />P<br />E<br />N</p>
+</div>
+<div id="slidebox">
+<a class="closee">close</a>
+<h4>Recent Article in Cricket</h4>
+<div class="slide-headlines">
+<div class ="bordered-image">
+<a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-fourth-test-at-ferozshah-kotla-ground-ddca-positive-has-government-backing-says-bansal/article7872810.ece?ref=sliderNews"><img src="http://www.thehindu.com/multimedia/dynamic/02619/FEROZSHAH_KOTLA_2619107j.jpg" width="80" height="60" alt="A view of the Ferozshah Kotla ground in New Delhi. File photo" title="A view of the Ferozshah Kotla ground in New Delhi. File photo"/></a>
+</div>
+<h3><a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-fourth-test-at-ferozshah-kotla-ground-ddca-positive-has-government-backing-says-bansal/article7872810.ece?ref=sliderNews">DDCA positive, has government backing: Bansal</a></h3>	<div class="slider-lead"> Bansal though asserted that Bedi and company have painted a wrong picture in front of Mr. Kejriwal. <a href="http://www.thehindu.com/sport/cricket/south-africa-tour-of-india-india-versus-south-africa-fourth-test-at-ferozshah-kotla-ground-ddca-positive-has-government-backing-says-bansal/article7872810.ece?ref=sliderNews"><span class="arrows">&#187;</span></a> </div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+$(window).scroll(function(){
+/* when reaching the element with id "keywordline" we want to show the slidebox. Let's get the distance from the top to the element */
+var distanceTop = $('#keywordline').offset().top - $(window).height();
+if ($(window).scrollTop() > distanceTop)
+{
+if (document.getElementById('topover').style.display != 'block')
+{	$('#slidebox').animate({'right':'0px'},800);
+}
+else
+{
+document.getElementById('topover').style.visibility = 'visible';
+}
+}	else {
+document.getElementById('topover').style.visibility = 'hidden';
+$('#slidebox').stop(true).animate({'right':'-530px'},700);	}
+});
+$('#slidebox .closee').bind('click',function(){
+$('#slidebox').stop(true).animate({'right':'-530px'},10);	document.getElementById('topover').style.display = 'block';
+document.getElementById('topover').style.visibility = 'visible';
+document.getElementById('topover').onclick = function()
+{
+document.getElementById('topover').style.display = 'none';
+$('#slidebox').animate({'right':'0px'},800);
+}
+});
+});
+</script>
+<br />	<div id="th_footer">
+<div class="fmenu">
+<b>The Hindu:</b>
+<a href="http://www.thehindu.com/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'Home')" title="Home">
+Home</a> |
+<a href="http://www.thehindu.com/todays-paper/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'todays-paper')" title="Today's Paper">
+Today&#039;s Paper</a> |
+<a href="http://www.thehindu.com/news/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'news')" title="News">
+News</a> |
+<a href="http://www.thehindu.com/news/national/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'national')" title="National">
+National</a> |
+<a href="http://www.thehindu.com/news/international/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'international')" title="International">
+International</a> |
+<a href="http://www.thehindu.com/opinion/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'opinion')" title="Opinion">
+Opinion</a> |
+<a href="http://www.thehindu.com/business/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'business')" title="Business">
+Business</a> |
+<a href="http://www.thehindu.com/sport/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'sport')" title="Sport">
+Sport</a> |
+<a href="http://www.thehindu.com/thread/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'thread')" title="thREAD">
+thREAD</a> |
+<a href="http://www.thehindu.com/features/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'features')" title="Features">
+Features</a> |
+<a href="http://www.thehindu.com/sci-tech/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'sci-tech')" title="Sci-Tech">
+Sci-Tech</a> |
+<a href="http://www.thehindu.com/entertainment/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'entertainment')" title="Entertainment">
+Entertainment</a> |
+<br />
+<b>The Site:</b>
+|
+<a href="http://www.thehindu.com/navigation/?type=static&page=aboutus" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'About Us')" title="About Us">About Us</a>
+|
+<a href="http://www.thehindu.com/navigation/?type=static&page=termsofuse" onclick="ga('send', 'event', 'footer+nav', 'click', 'Terms of Use')" title="Terms of Use" target="_blank">Terms of Use</a> |
+<a href="http://www.thehindu.com/navigation/?type=static&page=privacypolicy" onclick="ga('send', 'event', 'footer+nav', 'click', 'Privacy Policy')" title="Privacy Policy" target="_blank">Privacy Policy</a> |
+<a href="http://www.thehindu.com/navigation/?type=static&page=contact" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'Contacts')" title="Contacts">Contacts</a>
+|
+<a href="http://www.thehindu.com/archive/" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'archive')" title="archive">Archive</a>
+|
+<a href="http://www.thehindugroup.in/subscribe/" onclick="ga('send', 'event', 'header+nav', 'click', 'Subscribe')" target="_blank" title="Subscribe">Subscribe</a>
+|
+<a href="http://www.thehindu.com/navigation/?type=rss" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'RSS Feeds')" title="RSS Feeds">RSS Feeds</a>
+|
+<a href="http://www.thehindu.com/navigation/?type=sitemap" rel="nofollow" onclick="ga('send', 'event', 'footer+nav', 'click', 'Site Map')" title="Site Map">Site Map</a>
+<br/>
+<b>Group Sites: </b>
+<a href="http://www.thehindu.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'The Hindu')" target="_blank" title="The Hindu">The Hindu</a> |
+<a href="http://tamil.thehindu.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'தி இந்து')" target="_blank" title="தி இந்து">தி இந்து</a> |
+<a href="http://www.thehindubusinessline.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Business Line')" target="_blank" title="Business Line">Business Line</a> |
+<a href="http://www.bloncampus.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'BL on Campus')" target="_blank" title="BL on Campus">BL on Campus</a> |
+<a href="http://www.sportstarlive.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Sportstarlive')" target="_blank" title="Sportstarlive">Sportstarlive</a> |
+<a href="http://www.frontline.in/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Frontline')" target="_blank" title="Frontline">Frontline</a> |
+<a href="http://www.thehinducentre.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'The Hindu Centre')" target="_blank" title="The Hindu Centre">The Hindu Centre</a> |
+<a href="https://roofandfloor.com/?utm_source=thehindu&utm_medium=referral&utm_campaign=Internal-Marketing" onclick="ga('send', 'event', 'footer+nav', 'click', 'RoofandFloor')" target="_blank" title="RoofandFloor">RoofandFloor</a> |
+<br/>
+<a href="http://www.thehindu.com/publications/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Publications')" target="_blank" title="Publications">Publications</a> |
+<a href="http://www.thehindu.com/ebooks/" onclick="ga('send', 'event', 'footer+nav', 'click', 'eBooks')" target="_blank" title="eBooks">eBooks</a> |
+<a href="http://www.thehinduimages.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Images')" target="_blank" title="Images">Images</a> |
+<a href="http://www.thehinduclassifieds.in/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Classifieds')" target="_blank" title="Classifieds">Classifieds</a> |
+</div>
+<div class="ftrinfo">
+<h4> Comments to: <a href="mailto:web.thehindu@thehindu.co.in">web.thehindu@thehindu.co.in</a>
+&nbsp;Copyright&copy; 2015, The Hindu
+</h4>
+</div> </div>
+<script type="text/javascript">
+var cb = function () {
+var l = document.createElement('script'); l.src = "http://vuukle.com/js/va.js";
+l.async = "async";
+var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+};
+var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+webkitRequestAnimationFrame || msRequestAnimationFrame;
+if (raf) raf(cb);
+else window.addEventListener('load', cb);
+</script>
+<div id="eae" style="line-height: 1px;"></div>
+<script type="text/javascript">
+function eaelogger(type,meta){
+var clientDT = new Date().getTime();
+$.ajax({ url: 'http://www.thehindu.com/eae-logger/Logger?rt=1&ctxId=664&pubId=4&cat=&objId=3306&title=I+was+always+a+cricket+buff%3a+Tharoor&url=news%2c2009-08-15+20%3a02%3a59.0%2chttp%3a%2f%2fwww.thehindu.com%2fsport%2fcricket%2fi-was-always-a-cricket-buff-tharoor%2farticle3306.ece&type='+ type + '&meta=' + meta + '&clientDT=' + clientDT });
+} eaelogger("article", "");
+</script>
+<noscript>
+<div>
+<img src="http://www.thehindu.com/eae-logger/Logger?rt=1&amp;ctxId=664&amp;pubId=4&amp;cat=&amp;objId=3306&amp;title=I+was+always+a+cricket+buff%3a+Tharoor&amp;url=news%2c2009-08-15+20%3a02%3a59.0%2chttp%3a%2f%2fwww.thehindu.com%2fsport%2fcricket%2fi-was-always-a-cricket-buff-tharoor%2farticle3306.ece&amp;amp;type=article&amp;amp;meta=ns" alt="" width="1" height="1"/>
+</div>
+</noscript> <script type="text/javascript">
+$(function() {
+FB.Event.subscribe('edge.create', function(targetUrl) {
+ga('send', 'social', 'facebook', 'like', extractUri());
+eaelogger("share", "like");
+});
+FB.Event.subscribe('message.send', function(targetUrl) {
+ga('send', 'social', 'facebook', 'share', extractUri());
+eaelogger("share", "fbshare");
+});
+function trackTwitter(intent_event) {
+if (intent_event) {
+var opt_pagePath;
+if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+opt_pagePath = extractParamFromUri(intent_event.target.src, 'url');
+}
+ga('send', 'social', 'twitter', 'share', extractUri());
+eaelogger("share", "twitter");
+}
+}
+twttr.ready(function (twttr) { twttr.events.bind('tweet', trackTwitter);
+});
+function extractParamFromUri(uri, paramName) {
+if (!uri) {
+return;
+}
+var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+var params = regex.exec(uri);
+if (params != null) {
+return unescape(params[1]);
+}
+return;
+}
+$( ".inShare" ).click(function() { ga('send', 'social', 'linkedIn', 'share', extractUri()); eaelogger("share","linkedIn"); });
+$( ".twit1" ).click(function() {ga('send', 'social', 'shareIt', 'share', extractUri()); eaelogger("share","shareIt"); });
+$( ".pin" ).click(function() { ga('send', 'social', 'pinIt', 'share', extractUri()); eaelogger("share","pinIt"); });
+function extractUri() {return window.location.href.split("?")[0];} });
+</script>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#username=thehindu" defer="defer"></script> <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js" defer="defer"></script>
+<script type="text/javascript" src="http://www.thehindu.com/template/1-0-1/javascript/social_tracking.js" ></script>
+</div>
+</div> <div id="ad1" class="right-tout">
+<div id="thzedo">
+<div id="zcee3c009-fe3b-4984-92ab-1c0d14a27f1a" style='display:none' ></div>
+<script src="http://www.thehindu.com/multimedia/archive/02556/Inview_TH_ROS_2556659a.js"></script>
+</div>
+</div>
+<div id="ad1" class="right-tout">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Hindu_ROS_skinning , publisher: Hindu , Ad Dimension: Skining 1x1 - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="2132"; var zflag_cid="251"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="91";
+</script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel: Hindu_ROS_skinning , publisher: Hindu , Ad Dimension: Skining 1x1 - 1 x 1 -->
+</div>
+<!-- Google Code for Remarketing Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
+<script type="text/javascript">
+var google_conversion_id = 963357032;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/963357032/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "URL" : null,
+  "Title" : null,
+  "Descripton" : null,
+  "Category" : [ ],
+  "Tags" : [ ],
+  "Content" : [ ],
+  "Created Date and Time" : null,
+  "Modified Date andTime" : null,
+  "Author" : [ ],
+  "description" : {
+    "interface" : "com.sun.syndication.feed.synd.SyndContent",
+    "type" : "text/html",
+    "mode" : null,
+    "value" : "\nWhich leads to exclusivity, with reference to genre, content and structure. P. K. Doraiswamy explores a few aspects. \n"
+  },
+  "title" : "What is inclusivity?",
+  "category" : null,
+  "url" : "http://www.thehindu.com/features/friday-review/music/a-discussion-on-whether-carnatic-music-is-inclusive/article9162945.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+  "content" : null
+}

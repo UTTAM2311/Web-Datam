@@ -1,0 +1,21 @@
+{
+  "URL" : null,
+  "Title" : null,
+  "Descripton" : null,
+  "Category" : [ ],
+  "Tags" : [ ],
+  "Content" : [ ],
+  "Created Date and Time" : null,
+  "Modified Date andTime" : null,
+  "Author" : [ ],
+  "description" : {
+    "interface" : "com.sun.syndication.feed.synd.SyndContent",
+    "type" : "text/html",
+    "mode" : null,
+    "value" : "\nMany residents have turned their terrace and balcony into beautiful gardens \n"
+  },
+  "title" : "How green and colourful is my balcony ",
+  "category" : null,
+  "url" : "http://www.thehindu.com/features/metroplus/making-beautiful-gardens-on-terrace-and-balcony/article9162900.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+  "content" : null
+}

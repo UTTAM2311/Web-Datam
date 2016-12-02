@@ -1,0 +1,312 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="A basic template for a Chrome Extension using Twitter Bootstrap 3">
+    <meta name="author" content="">
+
+    <title>Datum</title>
+
+    <!-- Style Sheets -->
+    <link rel="stylesheet" media="screen" href="css/bootstrap/bootstrap.min.css" />
+<!--     <link rel="stylesheet" media="screen" href="css/bootstrap/bootstrap.theme.min.css" /> -->
+    <link rel="stylesheet" media="screen" href="css/bootstrap/bootstrap-datepicker3.min.css" />
+
+    <link rel="stylesheet" media="screen" href="css/angular-csp.css" />
+    <link rel="stylesheet" media="screen" href="css/autocomplete.css" />
+
+    <link rel="stylesheet" media="screen" href="css/custom.css" />
+
+    <!-- Scripts -->
+    <script type="text/javascript" src="js/jquery/jquery-2.0.3.min.js"></script>
+
+    <script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap/bootstrap-datepicker.min.js"></script>
+
+    <script type="text/javascript" src="js/angular/angular.min.js"></script>
+    <script type="text/javascript" src="js/angular/angular-resource.min.js"></script>
+    <script type="text/javascript" src="js/angular/ngStorage.min.js"></script>
+    
+    <script type="text/javascript" src="js/angular/autocomplete.js"></script>
+
+    <script type="text/javascript" src="js/app/main.js"></script>
+    <script type="text/javascript" src="js/app/services.js"></script>
+
+    <script type="text/javascript" src="js/app/shared.js"></script>
+    <script type="text/javascript" src="js/app/controller.js"></script>
+
+</head>
+
+<body ng-app="mainApp">
+<section ng-controller="mainController">
+
+    <!-- Top Header -->
+    <div id="top-header" class="container-fluid" role="banner">
+
+        <!-- Branding -->
+        <div id="branding" class="col-sm-3">
+            <ul class="list-inline">
+                <li><a href="#">Datum</a></li>
+                <li><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ todayDate | date : 'MMM d, yyyy' : timezone }}</li>
+            <ul>
+        </div>
+
+        <!-- Top right Menu -->
+        <div class="col-sm-9" id="top-right-menu" ng-show="isAuthenticated()" >
+            <div class="pull-right" id="top-notes-menu">
+                <ul class="list-inline" role="tablist">
+                    <li role="presentation" class="active">
+                        <a href="#notes-section" aria-controls="notes-section" role="tab" data-toggle="tab">
+                            <span class="glyphicon glyphicon-th-large" aria-hidden="true"></span> Notes :
+                        </a>
+                        <ul class="list-inline pull-right" id="notes-filter-menu">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-filter" aria-hidden="true"></span> {{ notesFilterStr }} <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <!--
+                                    <li><label><input type="checkbox" ng-model="notesFilters['all']"/> all </label></li>
+                                    -->
+                                    <li ng-repeat="tag in tags">
+                                        <label><input type="checkbox" ng-init="checked=true" ng-model="notesFilters[tag.name]"/> {{ tag.name }}</label>
+                                    </li>
+                                </ul>
+                            </li>
+                            
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#note-form-modal" ng-click="resetNoteForm()">
+                            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> New note
+                        </a>
+                    </li>
+                    <li></li>
+                    <li role="presentation" >
+                        <a href="#tags-section" aria-controls="tags-section" role="tab" data-toggle="tab">
+                            <span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#tag-form-modal" ng-click="resetTagForm()">
+                            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> New tag
+                        </a>
+                    </li>
+                <ul>
+            </div>
+        </div>
+
+    </div>
+
+    <section id="main-container" ng-show="isAuthenticated()">
+
+        <!-- Main body -->
+        <div class="container-fluid tab-content ng-cloak">
+
+            <!-- Notes section -->
+            <div id="notes-section" class="tab-pane fade clearfix active in" role="tabpanel">
+
+                <div class="card col-xs-12 col-sm-4 col-md-2" ng-repeat="note in notes | filterByTag : notesFilters"
+                        ng-class="{ 'card-todo' : note.deadline }">
+
+                    <div class="card-content">
+                        <p> {{ note.content }} </p>
+                        <div class="details">
+                            <label class="pull-right tag"> <span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ note.tag.name }} </label>
+                            <label class="pull-left deadline" ng-if="note.deadline"> 
+                                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ note.deadline_type }} {{ note.deadline | date : dateFormat : timezone }} 
+                            </label>
+                        </div>
+                        <div class="options">
+                            <a class="" href="#" data-toggle="modal" data-target="#note-form-modal" 
+                                    ng-click="editNote(note)" title="edit">
+                                <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+                            </a>
+                            <a class="" href="#" ng-if="note.deadline" ng-click="markNoteDone(note)" title="mark completed">
+                                <span class="glyphicon glyphicon-check" aria-hidden="true"></span>
+                            </a>
+                            <a class="" href="#" ng-click="removeNote(note)" title="remove">
+                                <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div><!-- Notes section -->
+
+            <!-- Tags section -->
+            <div id="tags-section" class="tab-pane fade clearfix ng-cloak" role="tabpanel">
+
+                <div class="card card-tag col-xs-12 col-sm-4 col-md-2" ng-repeat="tag in tags">
+                    <div class="card-content">
+                        <p> {{ tag.name }} </p>
+                        <div class="details">
+                            <ul class="users-list">
+                                <li ng-repeat="user in tag.users">
+                                    <label> {{ user.email }} </label>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="options">
+                            <a class="" href="#" data-toggle="modal" data-target="#tag-form-modal" 
+                                    ng-click="editTag(tag)" title="Edit">
+                                <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!-- Tags section -->
+
+        </div>
+
+        <!-- note-form-modal -->
+        <div class="modal fade" id="note-form-modal" tabindex="-1" role="dialog" aria-labelledby="note-form" aria-hidden="true">
+            <div class="modal-dialog">
+                <form name="noteForm" class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">Note</h4>
+                    </div>
+                    <div class="modal-body">
+                        <input type="hidden" ng-model="currentNote._id" value="{{ currentNote._id }}" />
+
+                        <div class="form-group">
+                            <textarea class="form-control" ng-model="currentNote.content" name="content" rows="3" placeholder="to do">{{ currentNote.content }}</textarea>
+                        </div>
+
+                            
+                        <div class="form-group">
+                            <!--
+                            <input type="text" class="form-control" ng-model="currentNote.tag.name" 
+                                    placeholder="tag" value="{{ currentNote.tag.name }}">
+                            -->
+                            <autocomplete ng-model="currentNote.tag.name" data="tagNames" attr-input-class="form-control" 
+                                attr-placeholder="tag it with.." autocomplete-required="false"></autocomplete>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="form-group col-xs-6 col-sm-3">
+                                <label class="form-label">do it </label>
+                            </div>
+                            <div class="form-group col-xs-6 col-sm-3">
+                                <select class="form-control" ng-model="currentNote.deadline_type">
+                                    <option>by</option>
+                                    <option>on</option>
+                                </select>
+                            </div>
+                            <div class="form-group col-xs-12 col-sm-6">
+                                <!--
+                                <p class="input-group">
+                                    <input type="text" class="form-control" ng-model="currentNote.deadline" 
+                                        is-open="opened" datepicker-options="dateOptions"
+                                        ng-required="true" close-text="Close" id="deadline-picker" />
+
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default" ng-click="open($event)">
+                                            <i class="glyphicon glyphicon-calendar"></i>
+                                        </button>
+                                    </span>
+                                </p>
+                                -->
+                                <div class="input-group date">
+                                    <input type="text" class="form-control" ng-model="currentNote.deadline" placeholder="date..">
+                                    <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" ng-click="saveNote(currentNote)">Save</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- tag-form-modal -->
+        <div class="modal fade" id="tag-form-modal" tabindex="-1" role="dialog" aria-labelledby="tag-form" aria-hidden="true">
+            <div class="modal-dialog">
+                <form name="tagForm" class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">Tag</h4>
+                    </div>
+                    <div class="modal-body">
+                        <input type="hidden" ng-model="currentTag._id" value="{{ currentTag._id }}" />
+
+                        <div class="form-group">
+                            <input type="text" class="form-control" ng-model="currentTag.name" placeholder="name" value="{{ currentTag.name }}">
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" ng-model="currentTag.users" name="content" rows="3" placeholder="share with ..">
+                                {{ prepareTagUsersStr(currentTag.users) }}
+                            </textarea>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" ng-click="saveTag(currentTag)">Save</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </section>
+
+    <section id="auth-container" ng-hide="isAuthenticated()">
+        
+        <div id="signin-cont" class="col-xs-12 col-sm-6" >
+        
+            <!-- login form -->
+            <form class="form signin-form pull-right" role="form">
+                <div class="form-group">
+                    <input type="text" class="form-control" ng-model="eUser.email" ng-required placeholder="email">
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" ng-model="eUser.password" ng-required placeholder="password">
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-default" ng-click="signinUser(eUser)">Sign in</button>
+                </div>
+            </form>
+                    
+                    
+                    
+        </div>
+        
+        
+        <div id="signup-cont" class="col-xs-12 col-sm-6" >
+        
+        
+            <form class="form signup-form" role="form">
+
+                <div class="form-group">
+                    <input type="text" class="form-control" ng-model="nUser.name" ng-required placeholder="name">
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" ng-model="nUser.email" ng-required="true" placeholder="email">
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" ng-model="nUser.password" ng-required placeholder="password">
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-default" ng-click="signupUser(nUser)">Sign up</button>
+                </div>
+
+                <div class="form-group social ng-hide">
+                    <button class="btn btn-default" ng-click="">google</button>
+                    <button class="btn btn-default" ng-click="">facebook</button>
+                </div>
+
+            </form>
+            
+            
+        </div>
+        
+    </section>
+
+</section>
+<script type="text/javascript" src="js/custom.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "URL" : null,
+  "Title" : null,
+  "Descripton" : null,
+  "Category" : [ ],
+  "Tags" : [ ],
+  "Content" : [ ],
+  "Created Date and Time" : null,
+  "Modified Date andTime" : null,
+  "Author" : [ ],
+  "description" : {
+    "interface" : "com.sun.syndication.feed.synd.SyndContent",
+    "type" : "text/html",
+    "mode" : null,
+    "value" : "\nIn a lec-dem, Mandapaka Sarada explained nuances of the raga.\n\n"
+  },
+  "title" : "Thematic concert on raga Mohanam",
+  "category" : null,
+  "url" : "http://www.thehindu.com/features/friday-review/thematic-concert-on-raga-mohanam/article9161718.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+  "content" : null
+}

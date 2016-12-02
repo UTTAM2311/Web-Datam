@@ -1,0 +1,21 @@
+{
+  "URL" : null,
+  "Title" : null,
+  "Descripton" : null,
+  "Category" : [ ],
+  "Tags" : [ ],
+  "Content" : [ ],
+  "Created Date and Time" : null,
+  "Modified Date andTime" : null,
+  "Author" : [ ],
+  "description" : {
+    "interface" : "com.sun.syndication.feed.synd.SyndContent",
+    "type" : "text/html",
+    "mode" : null,
+    "value" : "\nCafe Hive at Apollo Dimora has an interesting menu that blends together different cuisines \n"
+  },
+  "title" : "Fusion of cuisines and flavours ",
+  "category" : null,
+  "url" : "http://www.thehindu.com/features/metroplus/Food/fusion-of-flavours-and-tastes-at-apollo-dimora/article9163006.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+  "content" : null
+}

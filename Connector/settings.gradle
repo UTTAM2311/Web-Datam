@@ -1,0 +1,8 @@
+include ':DataPreProcessor'
+project(':DataPreProcessor').projectDir = new File(settingsDir, '../DataPreProcessor')
+
+include ':web-crawler'
+project(':web-crawler').projectDir = new File(settingsDir, '../web-crawler')
+
+include ':RssFeeds'
+project(':RssFeeds').projectDir = new File(settingsDir, '../RssFeeds')
